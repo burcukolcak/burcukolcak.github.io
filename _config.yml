@@ -82,6 +82,45 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+# Site Author
+author:
+  name             : #"Burcu Kolcak"
+  avatar           : 
+  bio              : 
+  location         : #"Location"
+  employer         :
+  pubmed           : 
+  googlescholar    : 
+  email            :
+  researchgate     :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : #"burcukolcak"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 # Social Sharing
 twitter:
   username               :
