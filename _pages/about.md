@@ -19,16 +19,14 @@ author_profile: true
 <br/>
 <font size="4">
 
-$\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ Welcome! 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Welcome! 
 
 <br/> <br/>
 
-$\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ I am a PhD candidate in Political Science at Rutgers University. I am broadly interested in comparative politics, computational social science, and social media and politics.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; I am a PhD candidate in Political Science at Rutgers University. I am broadly interested in comparative politics, computational social science, and social media and politics.
 
 <br/> <br/>
 
-$\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ $\qquad$ I hold a master's in political theory from the London School of Economics, and a master's in philosophy from the Middle East Technical University. 
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; I hold a master's in political theory from the London School of Economics, and a master's in philosophy from the Middle East Technical University. 
 
 <br /> <br /> <br />
-
-</font>
