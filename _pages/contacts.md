@@ -23,4 +23,4 @@ You can get in touch with me at bk457 {at} rutgers (dot) edu!
 
 <br/> <br/>
 
-<i class="fab fa-twitter-square" style="font-size:36px"></i>  <a href="https://twitter.com/b_kolcak"> b_kolcak  </a>
+<i class="fab fa-twitter-square" style="font-size:36px"></i>  <a href="https://twitter.com/b_kolcak"> @b_kolcak  </a>
