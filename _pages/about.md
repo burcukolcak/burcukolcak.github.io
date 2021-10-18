@@ -10,13 +10,12 @@ author_profile: true
 
 <br /> 
 
+<figure>
 <center>
-
-<img src="header.jpg" width="1550" height="400">
-
+<img src="seventhward.jpg" width="1550" height="400" alt = "Du Bois, Map of the Seventh Ward of Philadelphia, 1889" style="width:90%">
 </center>
+</figure>
 
-<br/>
 <font size="4">
 
 <center>
@@ -25,11 +24,12 @@ Welcome!
 
 <br/> <br/>
 
-I am a PhD candidate in Political Science at Rutgers University. I am broadly interested in comparative politics, computational social science, and social media and politics.
+I am a PhD candidate in Political Science at Rutgers University. 
+
 
 <br/> <br/>
 
-I hold a master's in political theory from the London School of Economics, and a master's in philosophy from the Middle East Technical University. 
+I am broadly interested in comparative politics, quantitative methods , and social media and politics.
 
 <br /> <br /> <br />
 

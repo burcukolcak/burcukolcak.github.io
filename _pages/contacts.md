@@ -10,6 +10,13 @@ author_profile: false
 
 You can get in touch with me at bk457 {at} rutgers (dot) edu! 
 
+<br/> <br/> <br/> 
+
+Rutgers University <br>
+Department of Political Science <br>
+Hickman Hall, Room 602 <br>
+89 George Street, New Brunswick, NJ, 08901<br>
+
 <br/> <br/> <br/>
 
 <html>

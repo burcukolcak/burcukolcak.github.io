@@ -10,7 +10,7 @@ author_profile: true
 
 ### Working Papers
 *  Burcu Kolcak and Katherine T. McCabe. “Perceptions of Government Interventions in Protests”
-* Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil–Military Divide in Congressional Speech”
+* Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech”
 
 ### In Progress 
 * Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak.   “Federalism and Democratic Backsliding in Comparative Perspective”
