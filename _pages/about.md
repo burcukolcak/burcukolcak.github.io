@@ -18,7 +18,7 @@ author_profile: false
 
 <center>
 
-Welcome! 
+Hello! 
 
 <br/> <br/>
 
