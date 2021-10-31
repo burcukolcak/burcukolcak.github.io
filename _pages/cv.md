@@ -23,13 +23,28 @@ author_profile: false
 	 </ul>
  <li>BA in Business Administration </li>
    <ul>
-	 		<li>TOBB University of Economics and Technology, Ankara, 2008 – 2012 </li>
+	 		<li>TOBB University of Economics and Technology, Ankara, 2009 – 2012 </li>
 	 </ul>
 </ul>
 
 ## Fields of Interest
-* Comparative Politics: democratization, politics of authoritarian regimes, subnational politics, federalism
-* Quantitative and Computational Methods: experimental methods, quantitative text analysis, geospatial analysis, causal inference
+* Comparative Politics: democratization, politics of authoritarian regimes, local politics, federalism and decentralization
+* Quantitative Methods: survey and experimental methods, quantitative text analysis, geospatial analysis, causal inference
 * Social Media and Politics: agenda setting and political communication on social media, social media and authoritarian politics 
 
+## Research Experience & Work
+<ul>
+ <li>  <a href="https://libguides.rutgers.edu/c.php?g=808679&p=5772239 "> Graduate Specialist Program, Rutgers Libraries </a> </li> 
+    <ul>
+	<li> Diversity in Data Graduate Specialist,  October 2021 – </li>
+	 </ul>
+ <li> The Borders and Boundaries Project, Perry World House </li> 
+    <ul> 
+    	<li> Graduate Research Assistant, June 2020 – </li>
+   </ul>
+   <li> Prof.  Andrey Tomashevskiy, Rutgers University </li> 
+      <ul> 
+      	<li> Graduate Research Assistant, May 2019 – February 2020 </li> 
+   </ul>
+    
 <br /> <br /> <br /> <br /> 
