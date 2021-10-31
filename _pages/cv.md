@@ -29,7 +29,7 @@ author_profile: false
 
 ## Fields of Interest
 * Comparative Politics: democratization, politics of authoritarian regimes, local politics, federalism and decentralization
-* Quantitative Methods: survey and experimental methods, quantitative text analysis, geospatial analysis, causal inference
+* Quantitative Methods: experimental methods, quantitative text analysis, geospatial analysis, causal inference
 * Social Media and Politics: agenda setting and political communication on social media, social media and authoritarian politics 
 
 ## Research Experience & Work
