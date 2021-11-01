@@ -34,7 +34,7 @@ author_profile: false
 
 ## Research Experience & Work
 <ul>
- <li>  <a href="https://libguides.rutgers.edu/c.php?g=808679&p=5772239 "> Graduate Specialist Program, Rutgers Libraries </a> </li> 
+ <li>  <a href="https://libguides.rutgers.edu/c.php?g=808679&p=5772239 "> Graduate Specialist Program, Rutgers University Libraries </a> </li> 
     <ul>
 	<li> Diversity in Data Graduate Specialist,  October 2021 – </li>
 	 </ul>
