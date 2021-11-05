@@ -21,10 +21,6 @@ author_profile: false
    <ul>
 	 		<li>Middle East Technical University, Ankara, 2014 – 2016 </li>
 	 </ul>
- <li>BA in Business Administration </li>
-   <ul>
-	 		<li>TOBB University of Economics and Technology, Ankara, 2009 – 2012 </li>
-	 </ul>
 </ul>
 
 ## Fields of Interest
