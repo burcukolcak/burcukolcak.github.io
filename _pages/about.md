@@ -12,7 +12,7 @@ author_profile: false
 <center>
 <img src="seventhward.jpg" width="1550" height="400" alt = "Du Bois, Map of the Seventh Ward of Philadelphia, 1889" style="width:100%">
 </center>
- <figcaption> <i> &nbsp; Du Bois, The Seventh Ward of Philadelphia, 1889 </i></figcaption>
+ <figcaption> <i> &nbsp; Du Bois, The Seventh Ward of Philadelphia, 1899 </i></figcaption>
 </figure>
 
 <font size="4">
