@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ### Publications
-* Kolcak, B. and McCabe, K.T., 2021. Federalism at a partisan’s convenience: public opinion on federal intervention in 2020 election policy. <i> Journal of Elections, Public Opinion and Parties, 31 (sup1) </i>, pp.167-179. (<a href="https://www.tandfonline.com/doi/abs/10.1080/17457289.2021.1924741?journalCode=fbep20"> PDF </a>)
+* Kolcak, B. and McCabe, K.T., 2021. Federalism at a partisan’s convenience: public opinion on federal intervention in 2020 election policy. <i> Journal of Elections, Public Opinion and Parties, 31 (sup1) </i>, pp.167-179.
 
 ### Working Papers
 *  Burcu Kolcak and Katherine T. McCabe. “Perceptions of Government Interventions in Protests”
