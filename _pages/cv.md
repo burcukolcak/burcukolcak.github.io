@@ -30,14 +30,18 @@ author_profile: false
 
 ## Research Experience & Work
 <ul>
- <li>  <a href="https://libguides.rutgers.edu/c.php?g=808679&p=5772239 "> Graduate Specialist Program, Rutgers University Libraries </a> </li> 
+ <li>  <a href="https://libguides.rutgers.edu/c.php?g=808679&p=5772239 "> Graduate Specialist Program</a>, Rutgers University Libraries </li> 
     <ul>
 	<li> Diversity in Data Graduate Specialist,  October 2021 – </li>
 	 </ul>
- <li> The Borders and Boundaries Project, Perry World House </li> 
+ <li> <a href="https://global.upenn.edu/perryworldhouse/borders-and-boundaries-project"> The Borders and Boundaries Project</a>, The University of Pennsylvania, Perry World House </li> 
     <ul> 
     	<li> Graduate Research Assistant, June 2020 – </li>
    </ul>
+      <li> Prof. R. Daniel Kelemen, Rutgers University </li> 
+      <ul> 
+      	<li> Graduate Research Assistant, August 2021 </li> 
+       </ul>
    <li> Prof.  Andrey Tomashevskiy, Rutgers University </li> 
       <ul> 
       	<li> Graduate Research Assistant, May 2019 – February 2020 </li> 
