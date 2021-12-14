@@ -19,7 +19,7 @@ author_profile: false
 
 <center>
 
-Welcome! 
+Hello! 
 
 <br/> <br/>
 
@@ -28,7 +28,7 @@ I am a PhD candidate in Political Science at Rutgers University.
 
 <br/> <br/>
 
-I am broadly interested in comparative politics, quantitative methods, and social media and politics.
+I am broadly interested in comparative politics, computational social science, and social media and politics.
 
 <br /> <br /> <br />
 
