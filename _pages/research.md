@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: false
 ---
 
+My research spans democratization, the politics of authoritarian regimes, local politics, federalism, social media and politics, and political communication. I use a variety of methodological tools in my research including experimental methods, quantitative text analysis, geospatial analysis, and qualitative case studies.
+
 ### Publications
 * Kolcak, B. and McCabe, K.T., 2021. Federalism at a partisan’s convenience: public opinion on federal intervention in 2020 election policy. <i> Journal of Elections, Public Opinion and Parties, 31 (sup1) </i>, pp.167-179.
 

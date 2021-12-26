@@ -23,9 +23,6 @@ author_profile: false
 	 </ul>
 </ul>
 
-## Research interests
-democratization, the politics of authoritarian regimes, local politics, federalism, quantitative methods, social media and politics
-
 ## Research Experience & Work
 <ul>
  <li>  <a href="https://libguides.rutgers.edu/c.php?g=808679&p=5772239 "> Graduate Specialist Program</a>, Rutgers University Libraries </li> 

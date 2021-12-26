@@ -2,34 +2,39 @@
 permalink: /
 excerpt: "About me"
 author_profile: false
-#redirect_from: 
-  #- /about/
-  #- /about.html
-
 ---
 
-<figure>
-<center>
-<img src="seventhward.jpg" width="1550" height="400" alt = "Du Bois, Map of the Seventh Ward of Philadelphia, 1889" style="width:100%">
-</center>
- <figcaption> <i> &nbsp; Du Bois, The Seventh Ward of Philadelphia, 1899 </i></figcaption>
-</figure>
-
-<font size="4">
-
-<center>
-
-Hello! 
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox">
+    <img class="center-fit" src='seventhward.jpg'>
 
 <br/> <br/>
 
-I am a PhD candidate in Political Science at Rutgers University. 
+<center>
 
+Hello! I am a PhD candidate in Political Science at Rutgers University. 
 
 <br/> <br/>
 
-I am broadly interested in comparative politics, computational social science, and social media and politics.
+I am broadly interested in comparative politics, quantitative methods, and social media and politics.
 
 <br /> <br /> <br />
 
-</center>
