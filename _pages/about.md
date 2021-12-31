@@ -24,8 +24,8 @@ author_profile: false
 </head>
 <body>
 <div class="imgbox">
-    <img class="center-fit" src='seventhward.jpg'>
-
+    <img class="center-fit" src='seventhward.jpg' >
+      <figcaption><em>&nbsp;DuBois, The Seventh Ward, 1899</em></figcaption>
 <br/> <br/>
 
 <center>
