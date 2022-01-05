@@ -26,8 +26,8 @@ Hickman Hall, Room 602 <br>
 </head>
 <body>
 
-<i class="fa fa-github" style="font-size:36px"></i>  <a style="text-decoration:none" href="https://github.com/burcukolcak"> burcukolcak  </a>
+<i class="fa fa-github" style="font-size:36px"></i>  <a style="text-decoration:none; color = #C93312" href="https://github.com/burcukolcak" target = "blank_"> burcukolcak  </a>
 
 <br/> <br/>
 
-<i class="fab fa-twitter-square" style="font-size:36px"></i>  <a style="text-decoration:none" href="https://twitter.com/b_kolcak"> @b_kolcak  </a>
+<i class="fab fa-twitter-square" style="font-size:36px"></i>  <a style="text-decoration:none; color = #C93312" href="https://twitter.com/b_kolcak" target = "blank_"> @b_kolcak  </a>

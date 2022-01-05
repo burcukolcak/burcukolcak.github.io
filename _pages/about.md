@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: ""
 excerpt: "About me"
 author_profile: false
 ---
@@ -25,7 +26,7 @@ author_profile: false
 <body>
 <div class="imgbox">
     <img class="center-fit" src='seventhward.jpg' >
-      <figcaption><em>&nbsp;DuBois, The Seventh Ward, 1899</em></figcaption>
+      <figcaption><em> <font size="-1"> &nbsp;&nbsp;DuBois, The Seventh Ward, 1899 </font> </em></figcaption>
 <br/> <br/>
 
 <center>
@@ -35,6 +36,8 @@ Hello! I am a PhD candidate in Political Science at Rutgers University.
 <br/> <br/>
 
 I am broadly interested in comparative politics, quantitative methods, and social media and politics.
+
+</center>
 
 <br /> <br /> <br />
 
