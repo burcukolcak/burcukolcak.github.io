@@ -11,7 +11,7 @@ My research spans democratization, the politics of authoritarian regimes, local 
 * Kolcak, B. and McCabe, K.T., 2021. Federalism at a partisan’s convenience: public opinion on federal intervention in 2020 election policy. <i> Journal of Elections, Public Opinion and Parties, 31 (sup1) </i>, pp.167-179.
 
 ### Working Papers
-*  Burcu Kolcak and Katherine T. McCabe. “Perceptions of Government Interventions in Protests”
+*  Burcu Kolcak and Katherine T. McCabe. “Public Perception of Law Enforcement Response to the 2020 George Floyd Protests”
 * Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech”
 
 ### In Progress 
