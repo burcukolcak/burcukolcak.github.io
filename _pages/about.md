@@ -35,7 +35,7 @@ Hello! I am a PhD candidate in Political Science at Rutgers University.
 
 <br/> <br/>
 
-I am broadly interested in comparative politics, quantitative methods, and computational social science.
+I am broadly interested in comparative politics, political methodology, and computational social science.
 </center>
 
 <br /> <br /> <br />
