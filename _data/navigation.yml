@@ -6,11 +6,5 @@ main:
   - title: "Teaching"
     url: /teaching/ 
     
-  - title: "Sources & Data"
-    url: /sources/
-
-  - title: "Bio"
-    url: /bio/
-    
   - title: "Contact"
     url: /contact/
