@@ -17,4 +17,4 @@ My research spans democratization, authoritarian regimes, local politics, federa
 ### In Progress 
 * Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak.   “Federalism and Democratic Backsliding in Comparative Perspective”
 * Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”
-* Burcu Kolcak. “The Democratic Enclave Dilemma: How do How do Autocrats Address the Threat of Local Democratic Enclaves" 
+* Burcu Kolcak. “The Democratic Enclave Dilemma: How do Autocrats Address the Threat of Local Democratic Enclaves" 
