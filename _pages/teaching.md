@@ -30,7 +30,7 @@ Since October 2021, I am a diversity in data graduate specialist at Rutgers New 
 
 You can see the workshops schedule  <a style="text-decoration:none" href = "https://libcal.rutgers.edu/calendar/nblworkshops?cid=4537&t=d&d=0000-00-00&cal=4537&inc=0" target = "blank_"> here</a>.  
 
-<i> Please feel free to reach out to me for underlying materials related to courses or workshops.</i>
+<i> Please feel free to reach out to me for the underlying materials related to courses or workshops.</i>
 
 
 
