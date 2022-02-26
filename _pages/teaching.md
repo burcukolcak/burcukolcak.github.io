@@ -19,7 +19,6 @@ author_profile: false
 Since October 2021, I am a diversity in data graduate specialist at Rutgers New Brunswick Libraries, where I investigate issues of diversity relating to data science and present my findings to the Rutgers Community. I also deliver workshops on quantitative and computational methods for social science research.
 
 ### <i> Upcoming Workshops </i>
-* Framing Racial Justice and Police Brutality in the Age of Black Lives Matter: A View from Twitter
 * Text as Data: Introduction to Text Analysis for Social Science Research
 * Racial Bias in Policing Data
 * Image as Data: Introduction to Quantitative Image Analysis 
