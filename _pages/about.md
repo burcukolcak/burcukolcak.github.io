@@ -34,18 +34,18 @@ author_profile: false
 
 <center>
 
-<p style="margin-left:2.5em;">
+<p style="margin-left:2.5em;margin-right:2.5em">
 
 
 Hello! I am a PhD candidate in Political Science at Rutgers University. 
 
 <br/> <br/>
 
+<p style="margin-left:2.5em;">
+
 I am broadly interested in comparative politics, political methodology, and computational social science.
 
 </p>
-
-</center>
 
 <br/> <br/>
 
