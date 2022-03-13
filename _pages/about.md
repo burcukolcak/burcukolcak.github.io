@@ -39,7 +39,7 @@ author_profile: false
 
 Hello! I am a PhD candidate in Political Science at Rutgers University. 
 
-<br/> <br/>
+<br/>
 
 <p style="margin-left:2.5em;">
 
