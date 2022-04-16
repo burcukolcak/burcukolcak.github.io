@@ -20,16 +20,13 @@ author_profile: false
 
 Since October 2021, I am a diversity in data graduate specialist at Rutgers New Brunswick Libraries, where I conduct independent research on data practices that reflect systemic racism, unconscious bias, and marginalization of underrepresented groups, best practices to overcome these problems, and similar topics. I present my findings to the Rutgers Community. I also deliver workshops on quantitative and computational methods for social science research.
 
-### <i> Upcoming Workshops </i>
-
-* Racial Bias in Policing Data
-* Image as Data: Introduction to Quantitative Image Analysis 
-
 ### <i>Previous Workshops </i>
 
 * Framing Racial Justice and Police Brutality in the Age of Black Lives Matter: A View from Twitter
 * Collecting and Analyzing Social Media Data for Social Science Research 
 * Text as Data: Introduction to Text Analysis for Social Science Research
+* Racial Bias in Policing Data
+* Image as Data: Introduction to Quantitative Image Analysis 
 
 You can see the workshops schedule  <a style="text-decoration:none" href = "https://libcal.rutgers.edu/calendar/nblworkshops?cid=4537&t=d&d=0000-00-00&cal=4537&inc=0" target = "blank_"> here</a>.  
 

@@ -12,8 +12,8 @@ My research spans democratization and democratic backsliding, authoritarianism, 
 * Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s convenience: public opinion on federal intervention in 2020 election policy. <i> Journal of Elections, Public Opinion and Parties. </i> https://doi.org/10.1080/17457289.2021.1924741
 
 ### Working Papers
-* Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak.   “Federalism and Democratic Backsliding in Comparative Perspective”
-* Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”
+* Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak.   “Federalism and Democratic Backsliding in Comparative Perspective” (draft available upon request)
+* Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter” (draft available upon request)
 * Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech”
 
 ### In Progress 
