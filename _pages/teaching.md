@@ -10,7 +10,7 @@ author_profile: false
 * Introduction to Political Science Research Methods, Rutgers University, Summer 2021
 * Introduction to R Workshop for Political Science Graduate Students, Rutgers University, Spring 2021
 
-### Teaching Assistant 
+### Teaching Assistant
 
 * Introduction to Political Science Research Methods, Rutgers University, Teaching Assistant, Fall 2020 & Spring 2021 & Spring 2022
 * Introduction to Comparative Politics, Rutgers University, Teaching Assistant, Fall 2021
@@ -26,7 +26,7 @@ Since October 2021, I am a diversity in data graduate specialist at Rutgers New 
 * Collecting and Analyzing Social Media Data for Social Science Research 
 * Text as Data: Introduction to Text Analysis for Social Science Research
 * Racial Bias in Policing Data
-* Image as Data: Introduction to Quantitative Image Analysis 
+* Image as Data: Introduction to Quantitative Image Analysis
 
 You can see the workshops schedule  <a style="text-decoration:none" href = "https://libcal.rutgers.edu/calendar/nblworkshops?cid=4537&t=d&d=0000-00-00&cal=4537&inc=0" target = "blank_"> here</a>.  
 
