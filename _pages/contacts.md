@@ -8,7 +8,7 @@ author_profile: false
 <br/>
 <font size="4">
 
-You can get in touch with me at bk457 {at} rutgers (dot) edu
+bk457 {at} rutgers (dot) edu
 
 <br/> <br/> <br/> 
 

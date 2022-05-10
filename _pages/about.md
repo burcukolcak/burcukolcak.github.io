@@ -37,7 +37,7 @@ author_profile: false
 <p style="margin-left:2.5em;margin-right:2.5em">
 
 
-Hello! I am a PhD candidate in Political Science at Rutgers University. 
+I am a PhD candidate in Political Science at Rutgers University. 
 
 <br/>
 
