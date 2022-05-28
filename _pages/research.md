@@ -29,5 +29,3 @@ Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threa
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
 
 Burcu Kolcak and Maria Wilson. "A Study of Intersectional Discourse on Twitter: The Case of Turkey's Withdrawal from the Istanbul Convention".
-
-Burcu Kolcak.  "When and How do \#BlackLivesMatter beyond the US?: Global Diffusion of the BLM Movement on Twitter''.
