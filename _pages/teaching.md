@@ -9,9 +9,9 @@ author_profile: false
 
 Introduction to Political Science Research Methods, Rutgers University, Summer 2022
 
-Introduction to Political Science Research Methods, Rutgers University, Summer 2021
-
 Introduction to R Workshop for Political Science Graduate Students, Rutgers University, Spring 2021
+
+Introduction to Political Science Research Methods, Rutgers University, Summer 2021
 
 ### Teaching Assistant
 
@@ -23,7 +23,7 @@ Introduction to Comparative Politics, Rutgers University, Teaching Assistant, Fa
 
 ### Diversity in Data Program (Rutgers New Brunswick Libraries) 
 
-Since October 2021, I am a diversity in data graduate specialist at Rutgers New Brunswick Libraries, where I conduct independent research on data practices that reflect systemic racism, unconscious bias, and marginalization of underrepresented groups, best practices to overcome these problems, and similar topics. I present my findings to the Rutgers Community. I also deliver workshops on quantitative and computational methods for social science research.
+Since October 2021, I am a diversity in data graduate specialist at Rutgers New Brunswick Libraries, where I conduct independent research on data practices that reflect systemic racism, unconscious bias, and marginalization of underrepresented groups, best practices to overcome these problems, and similar topics. I present my findings to the Rutgers Community by delivering workshops. I also deliver workshops on quantitative and computational methods for social science research.
 
 ### <i>Previous Workshops </i>
 

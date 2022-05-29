@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and democratic backsliding, authoritarianism, subnational politics, federalism, public opinion, and political communication. I am particularly interested in the application of experimental methods, quantitative text analysis, geospatial analysis, and machine learning in my own research and in social science more broadly. 
+My research spans democratization and authoritarianism, subnational politics, federalism, public opinion, and political communication. I am particularly interested in the application of experimental methods, quantitative text analysis, geospatial analysis, and machine learning in my own research and in social science more broadly. 
 
 ### Publications
 
@@ -15,12 +15,11 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 ### Working Papers
 
-Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak.   “Federalism and Democratic Backsliding in Comparative Perspective”. (draft available upon request) 
+Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (draft available upon request) 
 
 Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech”. (draft available upon request) 
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”. (draft available upon request) 
-
 
 ### In Progress 
 
