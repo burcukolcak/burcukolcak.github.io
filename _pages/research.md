@@ -9,7 +9,7 @@ My research spans democratization and authoritarianism, subnational politics, fe
 
 ### Research Projects 
 
-<u> Dissertation Project: Subnational Dynamics of Democracy in Autocracies.</u>  My dissertation develops new theories, experimental designs, and collects original cross-national time series observational data for exploring the subnational dynamics of democracy in hybrid authoritarian regimes. It demonstrates how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges dominant national-level theories of authoritarian politics and democratization, and can provide new insights into the layered dynamics of political conflict in authoritarian regimes. 
+<u> Dissertation Project: Subnational Dynamics of Democracy in Autocracies.</u>  My dissertation develops new theories, experimental designs, and collects original cross-national time-series data for exploring the subnational dynamics of democracy in hybrid authoritarian regimes. It demonstrates how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges dominant national-level theories of authoritarian politics and democratization, and can provide new insights into the layered dynamics of political conflict in authoritarian regimes. 
 
 <u> Local Context and its Effects on National Politics in Democracies. </u>  In my published work and working papers, I also study the subnational dynamics of politics in democracies. In particular, with a series of papers with co-authors, we seek to explore how local context shapes functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
