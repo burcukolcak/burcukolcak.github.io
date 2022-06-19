@@ -5,7 +5,15 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, subnational politics, federalism, public opinion, and political communication. I am particularly interested in the application of experimental methods, quantitative text analysis, geospatial analysis, and machine learning in my own research and in social science more broadly. 
+My research spans democratization and authoritarianism, subnational politics, federalism, public opinion, political communication, and quantitative methods.
+
+### Research Projects 
+
+<u> Dissertation Project: Subnational Dynamics of Democracy in Autocracies.</u>  My dissertation develops new theories, experimental designs, and collects original cross-national time series observational data for exploring the subnational dynamics of democracy in hybrid authoritarian regimes. It demonstrates how the study of interactions between national and subnational governments and actors in competitive authoritarian settings complicates and challenges  national-level theories of authoritarian politics and democratization, and can provide new insights into the layered dynamics of political conflict and power struggles in authoritarian regimes. 
+
+<u> Local Context and its Effects on National Politics in Democracies. </u>  In my published work and working papers, I also study the subnational dynamics of politics in democracies. In particular, my work seeks to explore how local context shapes functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
+
+<u> Quantitative and Computational Methods. </u> In my other work, I am interested in the application of quantitative text analysis, geospatial analysis, and machine learning in political science, and social science more broadly. In my working projects, I seek to demonstrate the role of elite discourse in shaping politics and public opinion, and how social media shapes and complicates the power struggles between dominant groups and marginalized communities. 
 
 ### Publications
 
