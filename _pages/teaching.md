@@ -5,21 +5,21 @@ permalink: /teaching/
 author_profile: false
 ---
 
-### Instructor 
+### Main Instructor 
 
-Introduction to Political Science Research Methods, Rutgers University, Summer 2022
+<i> Introduction to Political Science Research Methods  </i>, Rutgers University, Summer 2022 (undergraduate)
 
-Introduction to R Workshop for Political Science Graduate Students, Rutgers University, Spring 2021
+<i> Introduction to R Workshop </i>, Rutgers University, Spring 2021 (graduate)
 
-Introduction to Political Science Research Methods, Rutgers University, Summer 2021
+<i> Introduction to Political Science Research Methods </i>, Rutgers University, Summer 2021  (undergraduate)
 
 ### Teaching Assistant
 
-Introduction to Political Science Research Methods, Rutgers University, Teaching Assistant, Fall 2020 & Spring 2021 & Spring 2022
+<i> Introduction to Political Science Research Methods </i>, Rutgers University, Teaching Assistant, Fall 2020 & Spring 2021 & Spring 2022 (undergraduate)
 
-Introduction to Comparative Politics, Rutgers University, Teaching Assistant, Fall 2021
+<i> Introduction to Comparative Politics, Rutgers University </i>, Teaching Assistant, Fall 2021 (undergraduate)
 
-<a style="text-decoration:none" href="https://sicss.io/2021/rutgers/" target = "blank_"> Summer Institute in Computational Social Science (SICSS – Rutgers)</a>, Teaching Assistant, Summer 2021 
+<i> <a style="text-decoration:none" href="https://sicss.io/2021/rutgers/" target = "blank_"> Summer Institute in Computational Social Science (SICSS – Rutgers)</a> </i>, Teaching Assistant, Summer 2021 (graduate)
 
 ### Diversity in Data Program (Rutgers New Brunswick Libraries) 
 
