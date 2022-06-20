@@ -7,17 +7,17 @@ author_profile: false
 
 ### Main Instructor 
 
-<i> Introduction to Political Science Research Methods  </i>, Rutgers University, Summer 2022 (undergraduate)
+<i> Introduction to Political Science Research Methods</i>, Rutgers University, Summer 2022 (undergraduate)
 
-<i> Introduction to R Workshop </i>, Rutgers University, Spring 2021 (graduate)
+<i> Introduction to R Workshop</i>, Rutgers University, Spring 2021 (graduate)
 
-<i> Introduction to Political Science Research Methods </i>, Rutgers University, Summer 2021  (undergraduate)
+<i> Introduction to Political Science Research Methods</i>, Rutgers University, Summer 2021 (undergraduate)
 
 ### Teaching Assistant
 
-<i> Introduction to Political Science Research Methods </i>, Rutgers University, Teaching Assistant, Fall 2020 & Spring 2021 & Spring 2022 (undergraduate)
+<i> Introduction to Political Science Research Methods</i>, Rutgers University, Teaching Assistant, Fall 2020 & Spring 2021 & Spring 2022 (undergraduate)
 
-<i> Introduction to Comparative Politics, Rutgers University </i>, Teaching Assistant, Fall 2021 (undergraduate)
+<i> Introduction to Comparative Politics</i>, Rutgers University, Teaching Assistant, Fall 2021 (undergraduate)
 
 <i> <a style="text-decoration:none" href="https://sicss.io/2021/rutgers/" target = "blank_"> Summer Institute in Computational Social Science (SICSS – Rutgers)</a> </i>, Teaching Assistant, Summer 2021 (graduate)
 
