@@ -9,11 +9,11 @@ My research spans democratization and authoritarianism, subnational politics, fe
 
 ### Research Projects 
 
-<i> Subnational Dynamics of Democracy in Autocracies.</i> My dissertation develops new theories and experimental designs, and collects original cross-national data for understanding the subnational dynamics of democracy in hybrid authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization. Consequently, it aims to provide new insights into the layered dynamics of political conflict in authoritarian settings. 
+<i> Subnational Dynamics of Democracy in Autocracies.</i> My dissertation develops new theories and experimental designs, and collects original cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization. Consequently, it aims to provide new insights into the layered dynamics of political conflict in authoritarian settings. 
 
 <i> Local Context and its Effects on National Politics in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
-<i> Quantitative and Computational Methods. </i>  In addition to my substantive areas, I am interested in the application of quantitative text analysis, geospatial analysis, and machine learning in political science, and social science more broadly. In a series of solo and co-authored papers, I seek to demonstrate the role of elite discourse in shaping politics and public opinion, and how social media complicates the power struggles between dominant groups and marginalized communities. 
+<i> Quantitative and Computational Methods. </i>  In addition to my substantive areas, I am interested in the application of experimental methods, text-as-data/NLP, spatial analysis, and machine learning in political science, and social science more broadly. In a series of solo and co-authored papers, I seek to demonstrate the role of elite discourse in shaping political behavior, and the use of social media by marginalized groups and its effect on the power struggles between dominant and marginalized groups. 
 
 ### Publications
 
@@ -25,7 +25,7 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (draft available upon request) 
 
-Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech”. (draft available upon request) 
+Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (draft available upon request) 
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”. (draft available upon request) 
 
