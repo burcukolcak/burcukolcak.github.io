@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, subnational politics, federalism, public opinion, political communication, and quantitative methods.
+My research spans democratization and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, political communication, and quantitative methods.
 
 ### Research Projects 
 
@@ -31,7 +31,7 @@ Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matte
 
 ### In Progress 
 
-Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Local Democratic Enclaves".
+Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
 
