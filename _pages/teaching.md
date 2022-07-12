@@ -7,7 +7,7 @@ author_profile: false
 
 ### Instructor
 
-<i> Introduction to Political Science Research Methods</i>, Rutgers University, Summer 2022 & Summer 2021 (undergraduate)
+<i> Introduction to Political Science Research Methods</i>, Rutgers University, Summer 2021 & Summer 2022 (undergraduate)
 
 <i> Introduction to R Workshop</i>, Rutgers University, Spring 2021 (graduate)
 
