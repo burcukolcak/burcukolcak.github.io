@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, political communication, and quantitative methods.
+My research spans democratization and authoritarianism, subnational politics, federalism, public opinion, political communication, and quantitative methods.
 
 ### Research Projects 
 
