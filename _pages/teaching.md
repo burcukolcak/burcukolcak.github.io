@@ -21,7 +21,7 @@ author_profile: false
 
 ### Diversity in Data Program (Rutgers Libraries) 
 
-Since October 2021, I am a diversity in data graduate specialist at Rutgers Libraries, where I investigate data bias and data collection issues with disparate impacts by race, gender and other markers of identity. I present my findings to the Rutgers Community by delivering talks and workshops. 
+Since October 2021, I am a diversity in data graduate specialist at Rutgers Libraries, where I investigate data bias and data collection issues with disparate impacts by race, ethnicity, and identity. I present my findings to the Rutgers Community by delivering talks and workshops. 
 
 ### <i> Previous Workshops </i>
 

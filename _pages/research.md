@@ -9,7 +9,7 @@ My research spans democratization and authoritarianism, subnational politics, fe
 
 ### Research Projects 
 
-<i> Subnational Dynamics of Democracy in Autocracies.</i> My dissertation aims to develop new theories and experimental designs, and collect original cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization. Consequently, it aims to provide new insights into the layered dynamics of political conflict in authoritarian settings. 
+<i> Subnational Dynamics of Democracy in Autocracies.</i> My dissertation aims to develop new theories and experimental designs, and collect cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization.
 
 <i> Local Context and its Effects on National Politics in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
@@ -25,9 +25,9 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (draft available upon request) 
 
-Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (draft available upon request) 
-
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”. (draft available upon request) 
+
+Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (draft available upon request) 
 
 ### In Progress 
 
@@ -35,4 +35,4 @@ Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threa
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
 
-Burcu Kolcak and Maria Wilson. "A Study of Intersectional Discourse on Twitter: The Case of Turkey's Withdrawal from the Istanbul Convention".
+Burcu Kolcak and Maria Wilson. "A Study of Intersectional Discourse on Twitter: Evidence from Turkey's Withdrawal from the Istanbul Convention on Violence against Women".
