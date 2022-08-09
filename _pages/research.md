@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, subnational politics, federalism, public opinion, political communication, and quantitative methods.
+My research spans democratization and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, political communication, and quantitative methods.
 
 ### Research Projects 
 
 <i> Subnational Dynamics of Democracy in Autocracies.</i> My dissertation aims to develop new theories and experimental designs, and collect cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization.
 
-<i> Local Context and its Effects on National Politics in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
+<i> Subnational Politics and Policy in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
 <i> Quantitative and Computational Methods. </i>  In addition to my substantive areas, I am interested in the application of experimental methods, text-as-data/NLP, spatial analysis, and machine learning in political science, and social science more broadly. In a series of solo and co-authored papers, I seek to demonstrate the role of elite discourse in shaping political behavior, and the use of social media by marginalized groups and its effect on the power struggles between dominant and marginalized groups. 
 
