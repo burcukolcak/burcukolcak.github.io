@@ -34,5 +34,3 @@ Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Militar
 Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
-
-Burcu Kolcak and Maria Wilson. "A Study of Intersectional Discourse on Twitter: Evidence from Turkey's Withdrawal from the Istanbul Convention on Violence against Women".
