@@ -13,7 +13,9 @@ My research spans democratization and authoritarianism, local politics, federali
 
 <i> Subnational Politics and Policy in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
-<i> Quantitative Methods. </i>  In addition to my substantive areas, I am interested in the application of experimental methods, text-as-data, spatial analysis, and machine learning in political science, and social science more broadly. In a series of solo and co-authored papers, I seek to demonstrate the role of elite discourse in shaping political behavior, and the use of social media by marginalized groups and its effect on the power struggles between dominant and marginalized groups. 
+<i> Race and Ethnic Politics. </i> Some of my research projects related to subnational politics in different political contexts speak to questions about how racial attitudes shape policy preferences and support for democracy. In some early work in progress, I explore race and ethnic politics, with a focus on public opinion more broadly.
+
+<i> Quantitative Methods. </i>  In addition to my substantive areas, I am interested in the application of experimental methods, text-as-data, spatial analysis, and machine learning in political science, and social science more broadly.
 
 ### Publications
 
