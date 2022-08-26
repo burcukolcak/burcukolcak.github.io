@@ -43,7 +43,7 @@ I am a PhD candidate in Political Science at Rutgers University.
 
 <p style="margin-left:2.5em;">
 
-I am broadly interested in comparative politics, quantitative methods, and computational social science.
+I am broadly interested in comparative politics, quantitative methods, and computational social science. My research focuses on democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication.
 
 </p>
 
