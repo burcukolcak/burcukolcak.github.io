@@ -14,13 +14,6 @@ bkolcak{@}princeton[.]edu
 
 <br/> <br/> <br/> 
 
-Rutgers University <br>
-Department of Political Science <br>
-Hickman Hall, Room 602 <br>
-89 George Street, New Brunswick, NJ, 08901<br>
-
-<br/> <br/> <br/>
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
