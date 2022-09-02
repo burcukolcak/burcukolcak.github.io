@@ -36,13 +36,15 @@ author_profile: false
 
 <p style="margin-left:2.5em;margin-right:2.5em">
 
-I am a PhD candidate in Political Science at Rutgers University and a postdoctoral researcher for the Lab on Politics, Race & Experimental Methods at Princeton University. 
+I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at Princeton University. 
 
 <br/>
 
 <p style="margin-left:2.5em;">
 
-I am broadly interested in comparative politics, quantitative methods, and computational social science. <br/>
+I am broadly interested in comparative politics, quantitative methods, and computational social science. 
+
+<br/>
 
 </p>
 
