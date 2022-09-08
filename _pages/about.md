@@ -30,24 +30,24 @@ author_profile: false
     <img class="center-fit" src='seventhward.jpg' >
       <figcaption><em> <font size="-2"> &nbsp;&nbsp;DuBois, The Seventh Ward, 1899 </font> </em></figcaption>
 
-<br/> <br/>
+<br/> 
 
   <font size="4">
   
 <center>
 
-<p style="margin-left:2.5em;margin-right:2.5em">
+<p style="margin-left:13em;margin-right:13em">
 
 I am a PhD candidate in Political Science at <a style="text-decoration:none"  href="https://polisci.rutgers.edu/" target = "blank_"> Rutgers University </a> and a researcher for the Lab on Politics, Race & Experimental Methods at <a style="text-decoration:none" href="https://politics.princeton.edu/" target = "blank_">
 Princeton University</a>. 
 
-<br/>
+<br/><br/>
 
-<p style="margin-left:2.5em;">
+I am broadly interested in comparative politics and quantitative methods. My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication. I use a variety of methodological tools in my research including experimental methods, text analysis, spatial analysis, and machine learning. 
 
-I am broadly interested in comparative politics, quantitative methods, and computational social science. 
+<br/><br/>
 
-<br/>
+You can contact me at burcu.kolcak@rutgers.edu or bkolcak@princeton.edu.
 
 </p>
 
