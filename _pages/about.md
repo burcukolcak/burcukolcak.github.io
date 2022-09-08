@@ -43,14 +43,10 @@ Princeton University</a>.
 
 <br/><br/>
 
-I am broadly interested in comparative politics and quantitative methods. My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication. I use a variety of methodological tools in my research including experimental methods, text analysis, spatial analysis, and machine learning. 
+I am broadly interested in comparative politics and quantitative methods. My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication. I am interested in and use a variety of methodological tools, particularly experimental methods, text analysis, spatial analysis, and machine learning. 
 
 <br/><br/>
 
-You can contact me at burcu.kolcak@rutgers.edu or bkolcak@princeton.edu.
-
 </p>
-
-<br/> <br/>
 
 
