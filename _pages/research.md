@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, political communication. I am interested in the application of experimental methods, text-as-data, spatial analysis, and machine learning in political science, and social science more broadly.
+My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication. In addition to my substantive interests , I have  I am particularly  interested in the application of experimental methods, text-as-data, spatial analysis, and machine learning in political science, and social science more broadly.
 
 ### Research Projects 
 
