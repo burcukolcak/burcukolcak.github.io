@@ -43,7 +43,7 @@ Princeton University</a>.
 
 <br/><br/>
 
-I am broadly interested in comparative politics and quantitative methods. My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication.
+I am broadly interested in comparative politics and quantitative methods. My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, text-as-data, spatial analysis, and machine learning. 
 
 <br/><br/>
 
