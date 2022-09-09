@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, political communication, and quantitative methods.
+My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, political communication, and quantitative methods. In addition to my substantive areas, I am interested in the application of experimental methods, text-as-data, spatial analysis, and machine learning in political science, and social science more broadly.
 
 ### Research Projects 
 
@@ -13,9 +13,7 @@ My research spans democratization and authoritarianism, local politics, federali
 
 <i> Subnational Politics and Policy in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
-<i> Race and Ethnic Politics. </i> Some of my research projects related to subnational politics in different political contexts speak to questions about how racial attitudes shape policy preferences and support for democracy. In some early work in progress, I am interested in exploring race and ethnic politics, with a focus on public opinion more broadly.
-
-<i> Quantitative Methods. </i>  In addition to my substantive areas, I am interested in the application of experimental methods, text-as-data, spatial analysis, and machine learning in political science, and social science more broadly.
+<i> Race and Ethnic Politics. </i> Some of my research projects related to subnational politics in different political contexts speak to questions about how racial attitudes shape policy preferences and support for democracy. In early work in progress, I explore race and ethnic politics, with a focus on public opinion and political institutions more broadly.
 
 ### Publications
 
