@@ -8,9 +8,9 @@ author_profile: false
 <br/>
 <font size="4">
 
-burcu[.]kolcak{@}rutgers[.]edu <br><br>
+burcu.kolcak@rutgers.edu <br><br>
 
-bkolcak{@}princeton[.]edu
+bkolcak@princeton.edu
 
 <br/> <br/> <br/> 
 

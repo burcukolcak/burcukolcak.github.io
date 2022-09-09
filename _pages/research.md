@@ -13,7 +13,7 @@ My research spans democratization and authoritarianism, local politics, federali
 
 <i> Subnational Politics and Policy in Democracies. </i> In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively.
 
-<i> Race and Ethnic Politics. </i> Some of my research projects related to subnational politics in different political contexts speak to questions about how racial attitudes shape policy preferences and support for democracy. In early work in progress, I explore race and ethnic politics, with a focus on public opinion and political institutions more broadly.
+<i> Race and Ethnic Politics. </i> Some of my research projects related to subnational politics in different political contexts speak to questions about how racial attitudes shape policy preferences and support for democracy. In early work in progress, I focus on race and ethnic politics, with a focus on public opinion more broadly both in the US and comparatively. 
 
 ### Publications
 
