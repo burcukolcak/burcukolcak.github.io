@@ -39,7 +39,7 @@ author_profile: false
 <p style="margin-left:6em;margin-right:6em">
 
 I am a PhD candidate in Political Science at <a style="text-decoration:none"  href="https://polisci.rutgers.edu/" target = "blank_"> Rutgers University </a> and a researcher for the Lab on Politics, Race & Experimental Methods at <a style="text-decoration:none" href="https://politics.princeton.edu/" target = "blank_">
-Princeton University</a>. I am also a research fellow for the <a style="text-decoration:none"  href="https://nccr-onthemove.ch/about-us/" target = "blank_"> Swiss National Center of Competence in Research (NCCR)  </a> at Université de Neuchâtel.
+Princeton University</a>. 
 
 <br/><br/>
 
