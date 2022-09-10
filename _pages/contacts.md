@@ -8,8 +8,6 @@ author_profile: false
 <br/>
 <font size="4">
 
-<br/> <br/>
-
 burcu.kolcak@rutgers.edu <br><br>
 
 bkolcak@princeton.edu
