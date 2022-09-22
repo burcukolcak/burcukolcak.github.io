@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, local politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, causal inference, text-as-data, and spatial analysis.
+My research spans democratization and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, causal inference, text-as-data, and spatial analysis.
 
 ### Research Projects 
 
-<i> Subnational Politics in Different Political Contexts. </i> My dissertation aims to develop new theories and experimental designs, and collect cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization.
+<i> Subnational Dynamics of Politics in Different Political Contexts. </i> My dissertation aims to develop new theories and experimental designs, and collect cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization.
 
 In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively. 
 
