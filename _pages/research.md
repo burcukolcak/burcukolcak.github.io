@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democratization and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, causal inference, text-as-data, and spatial analysis.
+My current research spans democracy and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, causal inference, text-as-data, and spatial analysis.
 
 ### Research Projects 
 
