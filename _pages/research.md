@@ -9,11 +9,9 @@ My current research spans democracy and authoritarianism, subnational politics, 
 
 ### Research Projects 
 
-<i> Subnational Dynamics of Politics in Different Political Contexts. </i> My dissertation aims to develop new theories and experimental designs, and collect cross-national data for understanding the subnational dynamics of democracy in authoritarian regimes. It seeks to demonstrate how the study of interactions and power struggles between national and subnational governments and actors complicates and challenges national-level theories of authoritarian politics and democratization.
+My dissertation, <i> Subnational Dynamics of Democracy in Autocracies </i>, collects original cross-national data, and develops new theories and experimental designs for understanding the subnational dynamics of democracy in hybrid authoritarian regimes and its effects on outcomes such as democratization, political communication, public opinion, anti-regime protests, repression, ethnic prejudice, and regime stability. In my published work and working papers with co-authors, I also study local dynamics of politics and power in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy and public opinion in democracies – both in the United States and comparatively. 
 
-In my published work and working papers with co-authors, I also study the subnational dynamics of politics in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy, democratic representation, and public opinion in democracies – both in the United States and comparatively. 
-
-<i> Race and Ethnic Politics. </i> Some of my research projects related to subnational politics in different political contexts speak to questions about how racial attitudes shape policy preferences and support for democracy. In early work in progress, I focus on racial authoritarianism, and how group identities influence political preferences – both in the United States and comparatively. 
+My research projects in the context of subnational politics speak to two distinct set of questions related to race and ethnic politics: 1. How do racial attitudes shape policy preferences at the subnational level in the United States? 2. How do authoritarian regimes treat marginalized groups (e.g., ethnic minorities) and exploit ethnic cleavages for legitimizing repression and swaying public opinion in their favor? In early work in progress, I focus on the relationship between race and authoritarianism, how group identities influence political preferences, and the use of social media by marginalized communities – both in the United States and comparatively. 
 
 ### Publications
 
@@ -36,3 +34,6 @@ Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threa
 Burcu Kolcak. "Repression of Democratic Enclaves, Ethnic Authoritarianism, and Public Opinion".
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
+
+Stacey Greene and Burcu Kolcak. "Influence of Identity on Conceptualization of States' Rights Disputes".
+

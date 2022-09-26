@@ -43,7 +43,7 @@ Princeton University</a>.
 
 <br/><br/>
 
-I am broadly interested in comparative politics, quantitative methods, and race and ethnic politics. I study democracy and authoritarianism, with a particular focus on subnational dynamics of politics, public opinion, political communication, and racial and ethnic attitudes. In addition to my substantive areas of interest, I have methodological interests in experimental methods, causal inference, text-as-data, and spatial analysis.
+I am broadly interested in comparative politics, quantitative methods, and race and ethnic politics. I study democracy and authoritarianism, with a particular focus on subnational dynamics of politics and power, public opinion, political communication, and racial and ethnic attitudes. In addition to my substantive areas of interest, I have methodological interests in experimental methods, causal inference, text-as-data, and spatial analysis.
 
 <br/><br/>
 

@@ -23,6 +23,14 @@ author_profile: false
 
 Since October 2021, I am a diversity in data graduate specialist at Rutgers Libraries, where I investigate data bias and data collection issues with disparate impacts by race, ethnicity, and identity. I present my findings to the Rutgers Community by delivering talks and workshops. 
 
+### <i> Upcoming Workshops </i>
+
+Black Lives Matter Movement from the Perspectives of Supporters & Opponents: A View from Twitter (Monday, October 17, 5 pm) 
+
+When and How do #BlackLivesMatter Beyond the US?: Global Diffusion of the BLM Movement on Twitter (Monday, October 31, 5 pm) 
+
+Racial Bias in Policing Data (Monday, November 14, 5 pm) 
+
 ### <i> Previous Workshops </i>
 
 Framing Racial Justice and Police Brutality in the Age of Black Lives Matter: A View from Twitter
@@ -30,8 +38,6 @@ Framing Racial Justice and Police Brutality in the Age of Black Lives Matter: A 
 Collecting and Analyzing Social Media Data for Social Science Research 
 
 Text as Data: Introduction to Text Analysis for Social Science Research
-
-Racial Bias in Policing Data
 
 You can see the workshops schedule  <a style="text-decoration:none" href = "https://libcal.rutgers.edu/calendar/nblworkshops?cid=4537&t=d&d=0000-00-00&cal=4537&inc=0" target = "blank_"> here</a>.  
 
