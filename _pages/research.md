@@ -7,12 +7,6 @@ author_profile: false
 
 My current research spans democracy and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, causal inference, text-as-data, and spatial analysis.
 
-### Research Projects 
-
-My dissertation, <i> Subnational Dynamics of Democracy in Autocracies </i>, collects original cross-national data, and develops new theories and experimental designs for understanding the subnational dynamics of democracy in hybrid authoritarian regimes and its effects on outcomes such as democratization, political communication, public opinion, anti-regime protests, repression, ethnic prejudice, and regime stability. In my published work and working papers with co-authors, I also study local dynamics of politics and power in democracies. In particular, this line of my research aims to explore how local context shapes the functioning of democracy and public opinion in democracies – both in the United States and comparatively. 
-
-My research projects in the context of subnational politics speak to two distinct set of questions related to race and ethnic politics: 1. How do racial attitudes shape policy preferences at the subnational level in the United States? 2. How do authoritarian regimes treat marginalized groups (e.g., ethnic minorities) and exploit ethnic cleavages for legitimizing repression and swaying public opinion in their favor? In early work in progress, I focus on the relationship between race and authoritarianism, how group identities influence political preferences, and the use of social media by marginalized communities – both in the United States and comparatively. 
-
 ### Publications
 
 Kolcak, Burcu and Katherine T. McCabe. 2022. Public Opinion, Federalism, and Level of Governmental Intervention: Perceptions of Law Enforcement Response to the 2020 George Floyd Protests. <i> Publius: The Journal of Federalism. </i> https://doi.org/10.1093/publius/pjac009
