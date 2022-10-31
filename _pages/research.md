@@ -28,6 +28,3 @@ Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threa
 Burcu Kolcak. "Repression of Democratic Enclaves, Ethnic Authoritarianism, and Public Opinion".
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
-
-Stacey Greene and Burcu Kolcak. "Influence of Identity on Conceptualization of States' Rights Disputes".
-
