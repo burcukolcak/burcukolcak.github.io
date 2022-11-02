@@ -25,13 +25,11 @@ Since October 2021, I am a diversity in data graduate specialist at Rutgers Libr
 
 ### <i> Upcoming Workshops </i>
 
-Black Lives Matter Movement from the Perspectives of Supporters & Opponents: A View from Twitter (Monday, October 17, 5 pm) 
-
-When and How do #BlackLivesMatter Beyond the US?: Global Diffusion of the BLM Movement on Twitter (Monday, October 31, 5 pm) 
-
-Racial Bias in Policing Data (Monday, November 14, 5 pm) 
+Racial Bias in Policing Data
 
 ### <i> Previous Workshops </i>
+
+When and How do #BlackLivesMatter Beyond the US?: Global Diffusion of the BLM Movement on Twitter
 
 Framing Racial Justice and Police Brutality in the Age of Black Lives Matter: A View from Twitter
 
@@ -39,7 +37,7 @@ Collecting and Analyzing Social Media Data for Social Science Research
 
 Text as Data: Introduction to Text Analysis for Social Science Research
 
-You can see the workshops schedule  <a style="text-decoration:none" href = "https://libcal.rutgers.edu/calendar/nblworkshops?cid=4537&t=d&d=0000-00-00&cal=4537&inc=0" target = "blank_"> here</a>.  
+Black Lives Matter Movement from the Perspectives of Supporters & Opponents: A View from Twitter
 
 <i> Please feel free to reach out for the underlying materials related to courses or workshops.</i>
 
