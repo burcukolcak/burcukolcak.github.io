@@ -23,10 +23,6 @@ author_profile: false
 
 Since October 2021, I am a diversity in data graduate specialist at Rutgers Libraries, where I investigate data bias and data collection issues with disparate impacts by race, ethnicity, and identity. I present my findings to the Rutgers Community by delivering talks and workshops. 
 
-### <i> Upcoming Workshops </i>
-
-Racial Bias in Policing Data
-
 ### <i> Previous Workshops </i>
 
 When and How do #BlackLivesMatter Beyond the US?: Global Diffusion of the BLM Movement on Twitter
