@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-My research spans democracy and authoritarianism, subnational politics, federalism, race and ethnic politics, public opinion, and political communication. Methodologically, I am interested in experimental methods, causal inference, text-as-data, and spatial analysis.
-
 ### Publications
 
 Kolcak, Burcu and Katherine T. McCabe. 2022. Public Opinion, Federalism, and Level of Governmental Intervention: Perceptions of Law Enforcement Response to the 2020 George Floyd Protests. <i> Publius. </i> https://doi.org/10.1093/publius/pjac009
@@ -19,7 +17,7 @@ Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and 
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”. (draft available upon request)
 
-Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”.  (under review)
+Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (under review)
 
 ### In Progress 
 

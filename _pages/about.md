@@ -38,12 +38,10 @@ author_profile: false
 
 <p style="margin-left:6em;margin-right:6em">
 
-I am a PhD candidate in Political Science at <a style="text-decoration:none"  href="https://polisci.rutgers.edu/" target = "blank_"> Rutgers University </a> and a researcher for the Lab on Politics, Race & Experimental Methods at <a style="text-decoration:none" href="https://politics.princeton.edu/" target = "blank_">
-Princeton University</a>. 
-
+I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University.
 <br/><br/>
 
-I am broadly interested in comparative politics, quantitative methods, and race and ethnic politics. I study democracy and authoritarianism, subnational dynamics of politics and power, public opinion, and racial and ethnic attitudes. In addition to my substantive areas of interest, I have methodological interests in experimental methods, causal inference, text-as-data, and spatial analysis.
+I am broadly interested in comparative politics, quantitative methods, and race and ethnic politics. I study democracy and authoritarianism, subnational dynamics of politics and power, public opinion in different political contexts, and racial and ethnic attitudes. In addition to my substantive areas of interest, I have methodological interests in experimental methods, text-as-data, and spatial analysis.
 
 <br/><br/>
 
