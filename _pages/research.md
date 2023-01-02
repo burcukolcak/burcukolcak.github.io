@@ -15,7 +15,7 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (under review)
 
-Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (draft available upon request)  
+Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective: Evidence from the U.S., Brazil, India, and Venezuela”. (draft available upon request)  
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”. (draft available upon request)
 
@@ -23,8 +23,10 @@ Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matte
 
 Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
-Burcu Kolcak. "Repression of Opposition Enclaves, Ethnic Authoritarianism, and Public Opinion".
+Burcu Kolcak. "Repression of Opposition Enclaves and Dominant Cleavages in Authoritarian Regimes".
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
+
+Alexandra Filindra, Burcu Kolcak, and Anita Manatschal. "Attitudes Toward Immigration and Political Intolerance: Evidence from the U.S., Switzerland, and Turkey". 
 
 
