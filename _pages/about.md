@@ -41,7 +41,7 @@ author_profile: false
 I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University.
 <br/><br/>
 
-I am broadly interested in democracy and authoritarianism, subnational politics, race and ethnic politics, and public opinion. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, text analysis, and spatial analysis.
+I am broadly interested in democracy and authoritarianism, subnational politics, race and ethnic politics, racial attitudes, and public opinion. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, text analysis, and spatial analysis.
 
 <br/><br/>
 
