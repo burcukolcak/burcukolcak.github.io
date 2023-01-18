@@ -27,6 +27,6 @@ Burcu Kolcak. "Repression of Opposition Enclaves in Authoritarian Regimes".
 
 Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
 
-Alexandra Filindra, Burcu Kolcak, and Anita Manatschal. "Attitudes Toward Immigration and Political Intolerance: Evidence from the U.S., Switzerland, and Turkey". 
+Alexandra Filindra, Burcu Kolcak, Mia Gandenberger, and Anita Manatschal. "The Exclusionary Conception of the Demos and Political Intolerance: Evidence from the U.S., Switzerland, and Turkey". 
 
 
