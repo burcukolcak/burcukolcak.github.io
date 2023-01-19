@@ -25,7 +25,7 @@ Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threa
 
 Burcu Kolcak. "Repression of Opposition Enclaves in Authoritarian Regimes".
 
-Alexandra Filindra and Burcu Kolcak. "Spatial Determinants of Enactment of Second Amendment Sanctuary Ordinances".
+Alexandra Filindra and Burcu Kolcak. "Political and Social Correlates of Enactment of Second Amendment Sanctuary Ordinances".
 
 Alexandra Filindra, Mia Gandenberger, Burcu Kolcak, and Anita Manatschal. "The Exclusionary Conception of the Demos and Political Intolerance: Evidence from the U.S., Switzerland, and Turkey". 
 
