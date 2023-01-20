@@ -23,9 +23,9 @@ Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matte
 
 Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
-Burcu Kolcak. "Repression of Opposition Enclaves in Authoritarian Regimes".
+Burcu Kolcak. "Spatial Patterns of Repression: Opposition Enclaves in Authoritarian Regimes".
 
-Alexandra Filindra and Burcu Kolcak. "Political and Social Correlates of Enactment of Second Amendment Sanctuary Ordinances".
+Alexandra Filindra and Burcu Kolcak. "Correlates of Enactment of Second Amendment Sanctuary Ordinances".
 
 Alexandra Filindra, Mia Gandenberger, Burcu Kolcak, and Anita Manatschal. "The Exclusionary Conception of the Demos and Political Intolerance: Evidence from the U.S., Switzerland, and Turkey". 
 
