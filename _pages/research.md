@@ -17,7 +17,7 @@ Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Militar
 
 Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (draft available upon request)  
 
-Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement:  A View from Twitter”. (draft available upon request)
+Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. (draft available upon request)
 
 ### In Progress 
 
