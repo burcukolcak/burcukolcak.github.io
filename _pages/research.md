@@ -19,7 +19,7 @@ Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Militar
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. (draft available upon request)
 
-Alexandra Filindra, Mia Gandenberger, Burcu Kolcak, and Anita Manatschal. "The Exclusionary Conception of the Demos and Political Intolerance: Evidence from the U.S., Switzerland, and Turkey". (draft available upon request)
+Alexandra Filindra, Mia Gandenberger, Burcu Kolcak, and Anita Manatschal. "The Exclusionary Conception of the Demos and Political Intolerance". (draft available upon request)
 
 ### In Progress 
 
