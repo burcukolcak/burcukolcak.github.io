@@ -25,4 +25,6 @@ Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threa
 
 Burcu Kolcak. "Spatial Patterns of Repression and Prejudice: Opposition Enclaves in Authoritarian Regimes".
 
+Alexandra Filindra and Burcu Kolcak. "Political and Social Correlates of Second Amendment Sanctuaries". 
 
+Alexandra Filindra , Mia Gandenberger, Burcu Kolcak  and Anita Manatschal. "Attitudes toward Immigrants and Political Intolerance". 
