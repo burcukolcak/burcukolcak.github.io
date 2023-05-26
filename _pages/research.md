@@ -19,12 +19,10 @@ Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Militar
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. (draft available upon request)
 
+Alexandra Filindra , Mia Gandenberger, Burcu Kolcak  and Anita Manatschal. "Citizenship Status and Backlash to Criticizing Government: Experimental Evidence from the United States, Switzerland, and Turkey". 
+
 ### In Progress 
 
 Burcu Kolcak. “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
 Burcu Kolcak. "Spatial Patterns of Repression and Prejudice: Opposition Enclaves in Authoritarian Regimes".
-
-Alexandra Filindra and Burcu Kolcak. "Political and Social Correlates of Second Amendment Sanctuaries". 
-
-Alexandra Filindra , Mia Gandenberger, Burcu Kolcak  and Anita Manatschal. "Attitudes toward Immigrants and Political Intolerance". 
