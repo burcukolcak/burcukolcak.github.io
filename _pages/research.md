@@ -11,13 +11,11 @@ Kolcak, Burcu and Katherine T. McCabe. 2022. Public Opinion, Federalism, and Lev
 
 Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s convenience: public opinion on federal intervention in 2020 election policy. <i> Journal of Elections, Public Opinion and Parties. </i> https://doi.org/10.1080/17457289.2021.1924741
 
-### Submitted 
+### Working Papers
 
 Kaufman, Robert  R., R. Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (R & R)
 
 Kenwick, Michael, Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (under review)
-
-### Working Papers
 
 Kolcak, Burcu . “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. (draft available upon request)
 
