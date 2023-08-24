@@ -13,13 +13,13 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 ### Working Papers
 
-Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (under review)
+Robert  R. Kaufman, R.  Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. (R \& R)
 
 Michael  R. Kenwick,  Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. (under review)
 
 Burcu Kolcak. “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. (draft available upon request)
 
-Alexandra Filindra , Mia Gandenberger, Burcu Kolcak  and Anita Manatschal. "Citizenship Status and Backlash to Criticizing Government: Experimental Evidence from the United States, Switzerland, and Turkey". (draft available upon request)
+Alexandra Filindra , Mia Gandenberger, Burcu Kolcak  and Anita Manatschal. "Who is Allowed to Criticize the Government". (draft available upon request)
 
 ### In Progress 
 
