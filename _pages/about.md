@@ -5,10 +5,9 @@ excerpt: "About me"
 author_profile: false
 ---
 
- <br/>
-
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         * {
             margin: 0;
@@ -23,29 +22,26 @@ author_profile: false
             max-height: 100vh;
             margin: auto;
         }
+        .content {
+            padding: 20px;
+        }
     </style>
 </head>
 <body>
 <div class="imgbox">
-    <img class="center-fit" src='seventhward.jpg' >
-      <figcaption><em> <font size="-2"> &nbsp;&nbsp;The Seventh Ward, 1899 </font> </em></figcaption>
+    <img class="center-fit" src="seventhward.jpg" alt="The Seventh Ward, 1899">
+</div>
+<div class="content">
+    <h1>About Me</h1>
+    <p>
+        I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University.
+    </p>
 
-<br/> 
-
- <font size="4">
-  
-<center>
-
-<p style="margin-left:6em;margin-right:6em">
-
-I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University.
-
-<br/><br/>
-
-I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, subnational politics, racial attitudes, outgroup prejudice and discrimination, intergroup relations, and public opinion. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis. 
-
-<br/><br/>
-
-</p>
+    <p>
+        I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, subnational politics, racial attitudes, outgroup prejudice and discrimination, intergroup relations, and public opinion. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis.
+    </p>
+</div>
+</body>
+</html>
 
 
