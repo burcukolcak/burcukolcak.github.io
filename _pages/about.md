@@ -33,12 +33,13 @@ author_profile: false
     <img class="center-fit" src="seventhward.jpg">
 </div>
 <div class="content">
+<br>
     <p>
         I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University.
     </p>
 
     <p>
-    I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, subnational politics, racial attitudes, prejudice and discrimination, intergroup relations, and public opinion. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis.
+    I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, subnational politics, racial attitudes, outgroup prejudice and discrimination, intergroup relations, and public opinion. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis.
     </p>
 </div>
 </body>
