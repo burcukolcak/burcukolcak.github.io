@@ -13,17 +13,19 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 ### Working Papers
 
-Kaufman, Robert  R., R. Daniel  Kelemen,  and  Burcu  Kolcak. “Federalism and Democratic Backsliding in Comparative Perspective”. <i>(R & R)</i>
+“Federalism and Democratic Backsliding in Comparative Perspective” (with Robert Kaufman & R. Daniel  Kelemen). <i>(R & R)</i>
 
-Kenwick, Michael, Burcu  Kolcak,  and  Sumin  Lee. “The  Civil – Military Divide in Congressional Speech:  Evidence From The U.S. Congress During the Wars in Iraq and Afghanistan”. <i>(under review)</i>
+“Moving Beyond Linked Fate: Toward A New Measure of Politicized Racial Identity” (with Kaiyla Banks, Jeron Fenton, Jasante’ Howard, Isaiah Johnson, LaFleur Stephens-Dougan & Ismail K. White). 
 
-Kolcak, Burcu . “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. <i>(draft available upon request)
+The (Ir)Rationality of Using Identity in Choice of Representatives Race and Judgment in Choice of Representatives” (with Tina Tucker, Corrine McConnaughy & Ismail K. White). 
 
-Filindra, Alexandra, Mia Gandenberger, Burcu Kolcak & Anita Manatschal. "Who is Allowed to Criticize the Government". <i>(draft available upon request)</i>
+“The Dynamics of Support and Opposition to the Black Lives Matter Movement”. <i>(draft available upon request) </i>
+
+"Who is Allowed to Criticize the Government: Experimental evidence from the United States, Switzerland, and Turkey". (with Alexandra Filindra, Mia Gandenberger & Anita Manatschal). <i>(draft available upon request)</i>
 
 ### In Progress 
 
-Kolcak, Burcu . "Spatial Patterns of Repression and Prejudice: Opposition Enclaves in Authoritarian Regimes".
+"Spatial Patterns of Repression and Prejudice: Opposition Enclaves in Authoritarian Regimes".
 
-Kolcak, Burcu . “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
+“The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
