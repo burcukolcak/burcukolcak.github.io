@@ -13,19 +13,21 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 ### Working Papers
 
-“Federalism and Democratic Backsliding in Comparative Perspective” (with Robert Kaufman & R. Daniel  Kelemen). <i>(R & R)</i>
+“Federalism and Democratic Backsliding in Comparative Perspective”. (with Robert Kaufman & R. Daniel  Kelemen). <i>(R & R)</i>
 
-“Moving Beyond Linked Fate: Toward A New Measure of Politicized Racial Identity” (with Kaiyla Banks, Jeron Fenton, Jasante’ Howard, Isaiah Johnson, LaFleur Stephens-Dougan & Ismail K. White). 
+“Moving Beyond Linked Fate: Toward A New Measure of Politicized Racial Identity”. (with Kaiyla Banks, Jeron Fenton, Jasante’ Howard, Isaiah Johnson, LaFleur Stephens-Dougan & Ismail K. White)
 
-The (Ir)Rationality of Using Identity in Choice of Representatives: Race and Judgment in Choice of Representatives” (with Tina Tucker, Corrine McConnaughy & Ismail K. White). 
+The (Ir)Rationality of Using Identity in Choice of Representatives: Race and Judgment in Choice of Representatives”. (with Corrine McConnaughy, Tina Tucker & Ismail K. White)
 
 “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. <i>(draft available upon request) </i>
 
-"Who is Allowed to Criticize the Government: Experimental evidence from the United States, Switzerland, and Turkey". (with Alexandra Filindra, Mia Gandenberger & Anita Manatschal). <i>(draft available upon request)</i>
+"Who is Allowed to Criticize the Government: Experimental evidence from the United States, Switzerland, and Turkey". (with Alexandra Filindra, Mia Gandenberger & Anita Manatschal) <i>(draft available upon request)</i>
 
 ### In Progress 
 
-"Spatial Patterns of Repression and Prejudice: Opposition Enclaves in Authoritarian Regimes".
+“Post-Affirmative Action and Intergroup Relations". (with LaFleur Stephens-Dougan)
+
+"Political Geography, Intergroup Relations, and Democracy".
 
 “The Democratic Enclave Dilemma: How Autocrats Address the Threat of Democratic Enclaves".
 
