@@ -39,7 +39,7 @@ author_profile: false
     </p>
 
     <p>
-    I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, identity politics, subnational politics, racial attitudes, outgroup prejudice and discrimination, and intergroup relations. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis.
+    I am broadly interested in race and ethnic politics, comparative politics, and statistical methods. My research spans democracy and authoritarianism, identity politics, local politics, racial attitudes, and intergroup relations. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis.
     </p>
 </div>
 </body>
