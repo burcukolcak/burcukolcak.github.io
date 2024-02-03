@@ -39,8 +39,10 @@ author_profile: false
     </p>
 
     <p>
-    I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, identity politics, local politics, racial attitudes, and intergroup relations. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis. I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU).
+    I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, identity politics, local politics, racial attitudes, and intergroup relations. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis. 
     </p>
+    I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU). 
+   </p>
 </div>
 </body>
 </html>
