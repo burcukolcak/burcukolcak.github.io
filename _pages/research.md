@@ -19,8 +19,6 @@ Kolcak, Burcu and Katherine T. McCabe. 2021. Federalism at a partisan’s conven
 
 “The Dynamics of Support and Opposition to the Black Lives Matter Movement”. <i>(draft available upon request) </i>
 
-"Who is Allowed to Criticize the Government: Experimental evidence from the United States, Switzerland, and Turkey". (with Alexandra Filindra, Mia Gandenberger & Anita Manatschal) <i>(draft available upon request)</i>
-
 ### In Progress 
 
 “Post-Affirmative Action and Intergroup Relations". (with LaFleur Stephens-Dougan)
