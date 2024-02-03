@@ -37,10 +37,10 @@ author_profile: false
     <p>
         I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University.
     </p>
-
     <p>
     I am broadly interested in comparative politics, race and ethnic politics, and statistical methods. My research spans democracy and authoritarianism, identity politics, local politics, racial attitudes, and intergroup relations. In addition to my substantive areas, I have methodological interests in causal inference, experimental methods, spatial analysis, and text analysis. 
     </p>
+        <p>
     I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU). 
    </p>
 </div>
