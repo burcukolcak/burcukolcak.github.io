@@ -7,7 +7,7 @@ author_profile: false
 
 ### Published and Forthcoming Papers
 
-Federalism and Democratic Backsliding in Comparative Perspective. (with Robert Kaufman & R. Daniel  Kelemen). <i>(Forthcoming in Perspectives on Politics)</i>
+Federalism and Democratic Backsliding in Comparative Perspective. (with Robert Kaufman & R. Daniel  Kelemen). <i>(Forthcoming at the Perspectives on Politics)</i>
 
 Public Opinion, Federalism, and Level of Governmental Intervention: Perceptions of Law Enforcement Response to the 2020 George Floyd Protests (with Katherine McCabe). 2022. <i> Publius. </i> https://doi.org/10.1093/publius/pjac009
 
