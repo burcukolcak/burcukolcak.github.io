@@ -10,10 +10,12 @@ author_profile: false
 
 bkolcak@princeton.edu <br><br>
  
-Princeton University 
-Department of Politics 
-231B Corwin Hall
-Princeton, NJ 08544
+Princeton University <br>
+Department of Politics <br>
+231B Corwin Hall<br>
+Princeton, NJ 08544<br>
+
+<br><br>
 
 <html>
 <head>
