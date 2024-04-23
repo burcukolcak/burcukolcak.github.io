@@ -15,11 +15,11 @@ Federalism at a Partisan’s Convenience: Public Opinion on Federal Intervention
 
 ### Working Papers
 
-
-
 Assessing Racial Identity as Constraint on Democratic Accountability. (with Corrine McConnaughy, Tina Tucker & Ismail K. White)
 
 The Dynamics of Support and Opposition to the Black Lives Matter Movement.
+
+Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. 
 
 ### Works in Progress 
 
