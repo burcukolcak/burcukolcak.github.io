@@ -19,7 +19,7 @@ Assessing Racial Identity as Constraint on Democratic Accountability. (with Corr
 
 Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson)
 
-Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. 
+Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. 
 
 ### Works in Progress 
 
