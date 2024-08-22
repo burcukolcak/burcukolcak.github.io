@@ -23,7 +23,9 @@ Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Di
 
 ### Works in Progress 
 
-Political Geography, Identity, and Democracy.
+Identity, Political Geography, and Support for Democracy.
+
+Moving Beyond Electoral Democracy.
 
 Post-Affirmative Action and Intergroup Relations. (with LaFleur Stephens-Dougan)
 
