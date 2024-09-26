@@ -17,7 +17,7 @@ Federalism at a Partisan’s Convenience: Public Opinion on Federal Intervention
 
 Assessing Racial Identity as Constraint on Democratic Accountability. (with Corrine McConnaughy, Tina Tucker & Ismail K. White)
 
-Moving Beyond Linked Fate (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
+Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
 
 Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson)
 
