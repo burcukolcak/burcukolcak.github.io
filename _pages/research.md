@@ -19,11 +19,11 @@ Assessing Racial Identity as Constraint on Democratic Accountability. (with Corr
 
 Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
 
-Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. 
+Identity, Political Geography, and Support for Democracy.
+
+<!-- Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. -->
 
 ### Works in Progress 
-
-Identity, Political Geography, and Support for Democracy.
 
 Moving Beyond Electoral Democracy.
 
