@@ -25,7 +25,7 @@ Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
 ### Works in Progress 
 
-Moving Beyond Electoral Democracy: Dynamics of Racialized Democracy across Time and Space
+Moving Beyond Electoral Democracy: Dynamics of Racialized Democracy across Time and Space. 
 
 Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson)
 
