@@ -27,9 +27,9 @@ Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
 Race in Democracy: Dynamics of Racialized Democracy across Time and Space. 
 
-Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson)
+Post-Affirmative Action and Intergroup Relations. (with LaFleur Stephens-Dougan).
 
-Post-Affirmative Action and Intergroup Relations. (with LaFleur Stephens-Dougan)
+Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson).
 
 The Dynamics of Support and Opposition to the Black Lives Matter Movement.
 
