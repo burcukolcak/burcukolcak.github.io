@@ -15,7 +15,7 @@ Federalism at a Partisan’s Convenience: Public Opinion on Federal Intervention
 
 ### Working Papers
 
-Assessing Racial Identity as Constraint on Democratic Accountability. (with Corrine McConnaughy, Tina Tucker & Ismail K. White)
+Assessing Racial Identity as Constraint on Democratic Accountability. (with Corrine McConnaughy, Tina Tucker & Ismail K. White).
 
 Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
 
@@ -25,7 +25,7 @@ Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
 ### Works in Progress 
 
-Moving Beyond Electoral Democracy: Dynamics of Racialized Democracy across Time and Space. 
+Race in Democracy: Dynamics of Racialized Democracy across Time and Space. 
 
 Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson)
 
