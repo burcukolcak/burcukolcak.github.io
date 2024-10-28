@@ -19,7 +19,7 @@ Assessing Racial Identity as Constraint on Democratic Accountability. (with Corr
 
 Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
 
-In Search of Information: Assessing the Role of Racial Identity on Decision-Making using a Dynamic Conjoint Design. (with Ismail K. White). 
+<!-- In Search of Information: Assessing the Role of Racial Identity on Decision-Making using a Dynamic Conjoint Design. (with Ismail K. White).  -->
 
 Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
