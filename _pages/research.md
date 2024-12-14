@@ -21,13 +21,13 @@ In Search of Information: Assessing the Role of Racial Identity on Decision-Maki
 
 Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
-Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White).  
+Race in Democracy: Dynamics of Racialized Democracy across Time and Space. 
 
 <!-- Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. -->
 
 ### Works in Progress 
 
-Race in Democracy: Dynamics of Racialized Democracy across Time and Space. 
+Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White).  
 
 Post-Affirmative Action and Intergroup Relations. (with LaFleur Stephens-Dougan).
 
