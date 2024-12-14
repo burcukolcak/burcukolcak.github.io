@@ -7,7 +7,7 @@ author_profile: false
 
 ### Published and Forthcoming Papers
 
-Federalism and Democratic Backsliding in Comparative Perspective. (with Robert R. Kaufman & R. Daniel  Kelemen). <i>Perspectives on Politics</i>. <a style="text-decoration:none" href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/federalism-and-democratic-backsliding-in-comparative-perspective/B950459591127072534919EB57ECF9D1" target = "blank_"> doi:10.1017/S1537592724000604</a>
+Federalism and Democratic Backsliding in Comparative Perspective. (with Robert R. Kaufman & R. Daniel  Kelemen). 2024. <i>Perspectives on Politics</i>. <a style="text-decoration:none" href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/federalism-and-democratic-backsliding-in-comparative-perspective/B950459591127072534919EB57ECF9D1" target = "blank_"> doi:10.1017/S1537592724000604</a>
 
 Public Opinion, Federalism, and Level of Governmental Intervention: Perceptions of Law Enforcement Response to the 2020 George Floyd Protests. (with Katherine T. McCabe). 2022. <i>Publius</i>. <a style="text-decoration:none" href= "https://doi.org/10.1093/publius/pjac009" target = "blank_">  https://doi.org/10.1093/publius/pjac009</a>
 
@@ -21,7 +21,7 @@ In Search of Information: Assessing the Role of Racial Identity on Decision-Maki
 
 Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
-Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
+Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White).  
 
 <!-- Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. -->
 
