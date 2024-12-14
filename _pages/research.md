@@ -17,11 +17,11 @@ Federalism at a Partisan’s Convenience: Public Opinion on Federal Intervention
 
 Assessing Racial Identity as Constraint on Democratic Accountability. (with Corrine McConnaughy, Tina Tucker & Ismail K. White).
 
-Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
+In Search of Information: Assessing the Role of Racial Identity on Decision-Making using a Dynamic Conjoint Design. (with Ismail K. White). 
 
 Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
-In Search of Information: Assessing the Role of Racial Identity on Decision-Making using a Dynamic Conjoint Design. (with Ismail K. White). 
+Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White). 
 
 <!-- Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(under review)</i>. -->
 
