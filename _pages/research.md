@@ -13,7 +13,7 @@ Public Opinion, Federalism, and Level of Governmental Intervention: Perceptions 
 
 Federalism at a Partisan’s Convenience: Public Opinion on Federal Intervention in 2020 Election Policy. (with Katherine T. McCabe). 2021. <i>Journal of Elections, Public Opinion and Parties</i>. <a style="text-decoration:none" href="https://doi.org/10.1080/17457289.2021.1924741" target = "blank_"> https://doi.org/10.1080/17457289.2021.1924741</a>
 
-Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee) <i>(R&R)</i>. 
+Military Experience and Casualty (In)Sensitivity: Evidence from Congressional Discourse During the Wars in Iraq and Afghanistan. (with Michael R. Kenwick and Sumin Lee). <i>(R&R)</i>. 
 
 ### Working Papers
 
@@ -27,7 +27,7 @@ Race in Democracy: Dynamics of Racialized Democracy across Time and Space.
 
 ### Works in Progress 
 
-Race and Support for Multi-Racial Democracy. (with Ismail K. White & Lafleur Stephens-Dougan )
+Race and Support for Multi-Racial Democracy. (with Ismail K. White & Lafleur Stephens-Dougan).
 
 Post-Affirmative Action and Intergroup Relations. (with LaFleur Stephens-Dougan).
 
