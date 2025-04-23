@@ -25,10 +25,4 @@ Space Will Tear Us Apart: Ethnic Identity, Political Geography and Democracy.
 
 Race in Democracy: Dynamics of Racialized Democracy across Time and Space. 
 
-### Works in Progress 
-
-Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson).
-
-The Dynamics of Support and Opposition to the Black Lives Matter Movement.
-
 
