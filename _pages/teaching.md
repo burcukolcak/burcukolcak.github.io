@@ -17,7 +17,7 @@ author_profile: false
 
 <i> Intro to Comparative Politics</i>, Rutgers University, Fall 2021 (undergraduate)
 
-<i> Summer Institute in Computational Social Science (SICSS – Rutgers) </i>, Summer 2021 (graduate)
+<i> Summer Institute in Computational Social Science (SICSS – Rutgers) </i>,  Summer 2021 (graduate)
 
 
 
