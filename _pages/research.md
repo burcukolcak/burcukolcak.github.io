@@ -27,12 +27,6 @@ Race in Democracy: Dynamics of Racialized Democracy across Time and Space.
 
 ### Works in Progress 
 
-Race and Support for Multi-Racial Democracy. (with Ismail K. White & Lafleur Stephens-Dougan).
-
-Post-Affirmative Action and Intergroup Relations. (with LaFleur Stephens-Dougan).
-
-Moving Beyond Linked Fate. (with Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, Lafleur Stephens-Dougan & Ismail K. White).  
-
 Examining Public Opinion on Childcare as a Campaign Expense. (with Maria Wilson).
 
 The Dynamics of Support and Opposition to the Black Lives Matter Movement.
