@@ -35,13 +35,13 @@ author_profile: false
 <div class="content">
 <br>
     <p>
-        I am a PhD candidate in Political Science at Rutgers University and a researcher for the Lab on Politics, Race & Experimental Methods at the Politics Department at Princeton University. 
+        I am a postdoctoral researcher at the Politics Department at Princeton University.
     </p>
     <p>
-    I am broadly interested in comparative politics, race and ethnic politics, and political psychology. My research spans democracy and authoritarianism, identity politics, political representation, racial attitudes, and intergroup relations. In addition to my substantive areas, I have methodological interests in experimental methods, geospatial analysis, and quantitative text analysis. 
+    My research centers on democracy, racial and ethnic politics, and identity politics, drawing on political behavior, political psychology, and behavioral economics across the subfields of comparative politics and American politics.In addition to my substantive areas, I have methodological interests in experimental methods, geospatial analysis, and quantitative text analysis. 
     </p>
         <p>
-    I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU). 
+    I completed my PhD in Political Science at Rutgers University. I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU). 
    </p>
 </div>
 </body>
