@@ -41,7 +41,7 @@ author_profile: false
     My research centers on democracy, racial and ethnic politics, and identity politics, drawing on political behavior, political psychology, and behavioral economics. In addition to my substantive areas, I have methodological interests in experimental methods, geospatial analysis, and quantitative text analysis. 
     </p>
         <p>
-    I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU).
+        I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU).
    </p>
 </div>
 </body>
