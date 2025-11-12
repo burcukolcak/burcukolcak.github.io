@@ -35,7 +35,7 @@ author_profile: false
 <div class="content">
 <br>
     <p>
-     I am a postdoctoral researcher at the Politics Department at Princeton University. I completed my PhD in Political Science at Rutgers University.
+   I am a postdoctoral researcher in the Politics, Race, and Experimental Methods Lab at the Department of Politics at Princeton University. I completed my PhD in Political Science at Rutgers University.
     </p>
     <p>
     My research centers on democracy, racial and ethnic politics, and identity politics, drawing on political behavior, political psychology, and behavioral economics across the subfields of comparative politics and American politics.In addition to my substantive areas, I have methodological interests in experimental methods, geospatial analysis, and quantitative text analysis. 
