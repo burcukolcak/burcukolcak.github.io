@@ -30,7 +30,7 @@ author_profile: false
 </head>
 <body>
 <div class="imgbox">
-    <img class="center-fit" src="seventhward.jpg">"
+    <img class="center-fit" src="seventhward.jpg">
 </div>
 <div class="content">
 <br>
