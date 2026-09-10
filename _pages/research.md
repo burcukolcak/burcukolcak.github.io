@@ -13,12 +13,20 @@ author_profile: false
   <span class="pub-title">Identity Politics? Black Voters and the Logic of Co-Racial Voting in American Elections.</span>
   <span class="pub-status">Conditionally accepted,</span> <span class="pub-venue">American Political Science Review</span>.
   <span class="pub-authors">(with Tina LaChapelle, Corrine McConnaughy, Melanye Price, and Ismail K. White).</span>
+  <details>
+    <summary>Abstract</summary>
+    <p>For decades, scholars and commentators have debated whether political decisions rooted in shared identity undermine democratic accountability. This paper engages with this question by explaining the logic of co-racial voting in American elections and arguing that it can be a reasonable and appropriate use of identity in politics. We begin by developing a conceptual model that leverages the dynamic nature of the democratic voting process to better understand Black voters&rsquo; support for co-racial representatives. We then assess the model using two original dynamic experimental designs and observational data from the 2007-2024 Cooperative Congressional Election Study. Our results indicate that although Black Americans initially prefer co-racial representatives, they readily update their evaluations of representatives based on performance. This process, which we call heuristic co-racial voting with updating, suggests that identity-based political judgments are not fixed but are reasonable starting points for political decisions made under uncertainty.</p>
+  </details>
 </li>
 
 <li markdown="0">
   <a class="pub-title" href="https://doi.org/10.1177/00220027251365535" target="_blank" rel="noopener">Military Experience and Casualty Sensitivity in Elite Discourse.</a>
   2026. <span class="pub-venue">Journal of Conflict Resolution</span>.
   <span class="pub-authors">(with Michael Kenwick and Sumin Lee).</span>
+  <details>
+    <summary>Abstract</summary>
+    <p>Veterans are disproportionately represented among political elites, and the question of whether military experience shapes their behavior is a central puzzle in the study of international relations. Existing theories link military experience with hawkish or dovish foreign policy preferences. Rather than determining their positions on the use of force ex ante, we argue that domain-specific knowledge and their elevated social status will make veterans less likely to change their expressed positions, especially in response to wartime casualties. We test our argument by analyzing Congressional speeches referencing the American wars in Iraq and Afghanistan, finding strong support for our expectations. Our core insight is that veteran politicians are partisans first and veterans second, and that military experience may say more about how they update, rather than establish, their political positions.</p>
+  </details>
 </li>
 
 <li markdown="0">
@@ -45,6 +53,10 @@ author_profile: false
   <a class="pub-title" href="https://doi.org/10.1080/17457289.2021.1924741" target="_blank" rel="noopener">Federalism at a Partisan's Convenience: Public Opinion on Federal Intervention in 2020 Election Policy.</a>
   2021. <span class="pub-venue">Journal of Elections, Public Opinion and Parties</span> 31(S1): 167–179.
   <span class="pub-authors">(with Katherine T. McCabe).</span>
+  <details>
+    <summary>Abstract</summary>
+    <p>President Trump&rsquo;s rhetoric casting doubt on the integrity of mail-in voting ignited debates about whether the federal government should be allowed to intervene in states&rsquo; policy decisions regarding how elections are conducted. This study examines public opinion on rhetorical threats by the Trump Administration to block the expansion of states&rsquo; vote-by-mail policies and potentially delay the November 2020 election. In an online survey experiment, respondents were randomly assigned to receive information regarding the traditional role of states in administering U.S. federal elections and more or less salient partisan cues. Even though the information treatment was successful in informing respondents about intergovernmental control and reducing partisan gaps in knowledge, it had only a modest impact on attitudes. Preferences about which level of government should be in charge are malleable, subject to partisan and context-specific considerations.</p>
+  </details>
 </li>
 
 </ol>

@@ -13,7 +13,7 @@
   --accent:     #8f2d21;
   --accent-dk:  #6d211a;
   --paper:      #fffdf9;
-  --measure:    40rem;
+  --measure:    44rem;
 }
 
 $ui: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .masthead__inner-wrap {
-  max-width: 56rem;
+  max-width: 62rem;
   padding-top: 1.15em;
   padding-bottom: 1.15em;
   font-family: $ui;
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6,
    -------------------------------------------------------------------------- */
 
 #main {
-  max-width: 56rem;
+  max-width: 62rem;
   margin-top: 2.5em;
 }
 
@@ -174,11 +174,13 @@ h1, h2, h3, h4, h5, h6,
   border: 1px solid var(--rule);
 }
 
-/* All three paragraphs read as one block — same size, same colour. */
+/* All three paragraphs read as one block — same size, same colour — and run
+   the full width of the picture above them. */
 .home-bio p {
   font-size: 1em;
   line-height: 1.62;
   color: var(--ink-soft);
+  max-width: none;
 }
 
 .home-links {
@@ -353,7 +355,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .page__footer footer {
-  max-width: 56rem;
+  max-width: 62rem;
   padding-top: 1.5em;
   padding-bottom: 2.2em;
 }
