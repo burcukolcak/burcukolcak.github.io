@@ -543,8 +543,9 @@ body {
   font-style: italic;
 }
 
+/* Co-authors: clearly grey, but dark enough to read comfortably. */
 .pubs .pub-authors {
-  color: var(--muted);
+  color: #4f4f4f;
 }
 
 .pubs details summary {

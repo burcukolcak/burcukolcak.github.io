@@ -446,7 +446,8 @@ body { -webkit-font-smoothing: antialiased; letter-spacing: 0.005em; }
 .page__content ol.pubs a.pub-title { color: var(--ink); }
 .page__content ol.pubs a.pub-title:hover { color: #000; border-bottom: 1px solid #000; }
 .pubs .pub-venue { font-weight: 500; font-style: italic; }
-.pubs .pub-authors { color: var(--muted); }
+/* Co-authors: clearly grey, but dark enough to read comfortably. */
+.pubs .pub-authors { color: #4f4f4f; }
 .pubs details summary { border-bottom: none; letter-spacing: 0.05em; font-size: 0.8em; }
 .pubs details summary:hover { color: var(--ink); }
 .pubs details p { background: #fafafa; }
