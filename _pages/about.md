@@ -35,14 +35,12 @@ author_profile: false
 <div class="content">
 <br>
     <p>
-   I am a postdoctoral researcher in the Politics, Race, and Experimental Methods Lab at the Department of Politics at Princeton University. I completed my PhD in Political Science at Rutgers University. 
+I am a Postdoctoral Researcher at Princeton University’s Center for the Study of Democratic Politics, affiliated with the Lab on Politics, Race, and Experimental Methods. I am also a Postdoctoral Research Affiliate at Yale University’s Identity and Conflict Lab. I received my Ph.D. in Political Science from Rutgers University in 2025. 
     </p>
     <p>
-    My research centers on democracy, racial and ethnic politics, and identity politics, drawing on political behavior, political psychology, and behavioral economics. In addition to my substantive areas, I have methodological interests in experimental methods, geospatial analysis, and quantitative text analysis. 
-    </p>
+My research centers on democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies, drawing on democratic theory, political behavior, political psychology, and behavioral economics. </p>
         <p>
-        I received my MSc in political theory from the London School of Economics and Political Science (LSE) and MA in philosophy from the Middle East Technical University (METU).
-   </p>
+Prior to my Ph.D., I completed master’s degrees in Political Theory at the London School of Economics and in Philosophy at Middle East Technical University.   </p>
 </div>
 </body>
 </html>
