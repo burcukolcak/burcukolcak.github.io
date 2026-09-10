@@ -5,16 +5,8 @@ excerpt: "About me"
 author_profile: false
 ---
 
-<header class="home-header">
-  <h1>Burcu Kolcak</h1>
-  <p class="home-role">
-    <span>Postdoctoral Researcher, Princeton University</span><span class="sep">/</span><span>Center for the Study of Democratic Politics</span>
-  </p>
-</header>
-
 <figure class="home-figure">
   <img src="/seventhward-web.jpg" alt="Detail from W. E. B. Du Bois's colour-coded social map of Philadelphia's Seventh Ward, 1899.">
-  <figcaption>W. E. B. Du Bois, “The Seventh Ward of Philadelphia,” from <em>The Philadelphia Negro</em> (1899) — a block-by-block map of race, class, and residence.</figcaption>
 </figure>
 
 <div class="home-bio" markdown="1">

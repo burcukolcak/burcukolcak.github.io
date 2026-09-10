@@ -9,8 +9,6 @@ author_profile: false
   <div>
     <h3>Email</h3>
     <address><a href="mailto:bkolcak@princeton.edu">bkolcak@princeton.edu</a></address>
-    <h3 style="margin-top:1.6em;">Elsewhere</h3>
-    <address><a href="https://scholar.google.com/citations?user=qpeYXQ4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a></address>
   </div>
   <div>
     <h3>Office</h3>
