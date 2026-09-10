@@ -1,32 +1,35 @@
+@charset "UTF-8";
 /* ==========================================================================
    CUSTOM — layered on top of Minimal Mistakes / academicpages
    Compiled to assets/css/site.css and loaded from _includes/head/custom.html,
    so it does not depend on the theme's Sass build.
    ========================================================================== */
-
 :root {
-  --ink:        #1c1b19;
-  --ink-soft:   #3d3a36;
-  --muted:      #7c766f;
-  --rule:       #e4ded4;
-  --rule-soft:  #f0ebe3;
-  --accent:     #8f2d21;
-  --accent-dk:  #6d211a;
-  --paper:      #fffdf9;
-  --measure:    40rem;
+  --ink: #1c1b19;
+  --ink-soft: #3d3a36;
+  --muted: #7c766f;
+  --rule: #e4ded4;
+  --rule-soft: #f0ebe3;
+  --accent: #8f2d21;
+  --accent-dk: #6d211a;
+  --paper: #fffdf9;
+  --measure: 40rem;
 }
-
-$ui: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 /* --------------------------------------------------------------------------
    Base
    -------------------------------------------------------------------------- */
+html {
+  font-size: 17px;
+}
 
-html { font-size: 17px; }
-@media (min-width: 64em) { html { font-size: 18px; } }
-
+@media (min-width: 64em) {
+  html {
+    font-size: 18px;
+  }
+}
 body {
-  font-family: $ui;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   color: var(--ink);
   background-color: var(--paper);
   -webkit-font-smoothing: antialiased;
@@ -34,7 +37,7 @@ body {
 
 h1, h2, h3, h4, h5, h6,
 .page__title {
-  font-family: $ui;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   color: var(--ink);
   font-weight: 600;
   letter-spacing: -0.012em;
@@ -43,7 +46,6 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Masthead + navigation
    -------------------------------------------------------------------------- */
-
 .masthead {
   border-bottom: 1px solid var(--rule);
   background-color: var(--paper);
@@ -53,13 +55,15 @@ h1, h2, h3, h4, h5, h6,
   max-width: 56rem;
   padding-top: 1.15em;
   padding-bottom: 1.15em;
-  font-family: $ui;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 
-.greedy-nav { background: transparent; }
+.greedy-nav {
+  background: transparent;
+}
 
 .greedy-nav a {
-  font-family: $ui;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: 0.95em;
   font-weight: 400;
   letter-spacing: 0;
@@ -70,11 +74,16 @@ h1, h2, h3, h4, h5, h6,
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
-.greedy-nav a:hover { color: var(--ink); }
-.greedy-nav .visible-links a:before { display: none; }
+.greedy-nav a:hover {
+  color: var(--ink);
+}
+
+.greedy-nav .visible-links a:before {
+  display: none;
+}
 
 .greedy-nav .visible-links li a.active,
-.greedy-nav .visible-links li a[aria-current="page"] {
+.greedy-nav .visible-links li a[aria-current=page] {
   color: var(--ink);
   border-bottom-color: var(--accent);
 }
@@ -82,7 +91,6 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Page shell
    -------------------------------------------------------------------------- */
-
 #main {
   max-width: 56rem;
   margin-top: 2.5em;
@@ -120,7 +128,9 @@ h1, h2, h3, h4, h5, h6,
   color: var(--ink-soft);
 }
 
-.page__content p { margin: 0 0 1.15em; }
+.page__content p {
+  margin: 0 0 1.15em;
+}
 
 .page__content a {
   color: var(--accent);
@@ -149,7 +159,9 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .page__content h2:first-child,
-.page__content h3:first-child { margin-top: 0; }
+.page__content h3:first-child {
+  margin-top: 0;
+}
 
 .page__title {
   font-size: 1.9em;
@@ -160,8 +172,9 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Home page
    -------------------------------------------------------------------------- */
-
-.home-figure { margin: 0 0 2.4em; }
+.home-figure {
+  margin: 0 0 2.4em;
+}
 
 .home-figure img {
   display: block;
@@ -187,7 +200,10 @@ h1, h2, h3, h4, h5, h6,
   max-width: none;
 }
 
-.home-links li { margin: 0; max-width: none; }
+.home-links li {
+  margin: 0;
+  max-width: none;
+}
 
 .page__content .home-links a {
   display: inline-block;
@@ -207,7 +223,6 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Publications — numbered list, title carries the link
    -------------------------------------------------------------------------- */
-
 .page__content ol.pubs {
   margin: 0 0 1.5em;
   padding-left: 1.7em;
@@ -250,12 +265,18 @@ h1, h2, h3, h4, h5, h6,
   color: var(--ink);
 }
 
-.pubs .pub-status { font-style: italic; }
+.pubs .pub-status {
+  font-style: italic;
+}
 
-.pubs .pub-authors { color: var(--ink-soft); }
+.pubs .pub-authors {
+  color: var(--ink-soft);
+}
 
 /* Collapsible abstracts — no JavaScript */
-.pubs details { margin-top: 0.4em; }
+.pubs details {
+  margin-top: 0.4em;
+}
 
 .pubs details summary {
   font-size: 0.86em;
@@ -266,10 +287,21 @@ h1, h2, h3, h4, h5, h6,
   border-bottom: 1px solid var(--rule);
 }
 
-.pubs details summary::-webkit-details-marker { display: none; }
-.pubs details summary:before { content: "+ "; }
-.pubs details[open] summary:before { content: "\2013 "; }
-.pubs details[open] summary { margin-bottom: 0.6em; }
+.pubs details summary::-webkit-details-marker {
+  display: none;
+}
+
+.pubs details summary:before {
+  content: "+ ";
+}
+
+.pubs details[open] summary:before {
+  content: "–";
+}
+
+.pubs details[open] summary {
+  margin-bottom: 0.6em;
+}
 
 .pubs details summary:hover {
   color: var(--accent);
@@ -289,7 +321,6 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Teaching
    -------------------------------------------------------------------------- */
-
 .course {
   max-width: var(--measure);
   margin-bottom: 1em;
@@ -311,7 +342,6 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Contact
    -------------------------------------------------------------------------- */
-
 .contact-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
@@ -336,7 +366,6 @@ h1, h2, h3, h4, h5, h6,
 /* --------------------------------------------------------------------------
    Footer
    -------------------------------------------------------------------------- */
-
 .page__footer {
   margin-top: 4em;
   background: transparent;
@@ -350,16 +379,29 @@ h1, h2, h3, h4, h5, h6,
   padding-bottom: 2.2em;
 }
 
-.page__footer a { color: var(--muted); }
-.page__footer a:hover { color: var(--accent); }
-.page__footer-copyright { font-size: 0.8em; }
+.page__footer a {
+  color: var(--muted);
+}
+
+.page__footer a:hover {
+  color: var(--accent);
+}
+
+.page__footer-copyright {
+  font-size: 0.8em;
+}
 
 /* --------------------------------------------------------------------------
    Small screens
    -------------------------------------------------------------------------- */
-
 @media (max-width: 47em) {
-  html { font-size: 16px; }
-  #main { margin-top: 1.8em; }
-  .home-figure { margin-bottom: 1.8em; }
+  html {
+    font-size: 16px;
+  }
+  #main {
+    margin-top: 1.8em;
+  }
+  .home-figure {
+    margin-bottom: 1.8em;
+  }
 }
