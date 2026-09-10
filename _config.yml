@@ -20,7 +20,7 @@ title                    : "Burcu Kolcak"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Burcu Kolcak"
-description              : "Burcu Kolcak is a PhD candidate at Rutgers University. She is interested in comparative politics and quantitative methods."
+description              : "Burcu Kolcak is a Postdoctoral Researcher at Princeton University's Center for the Study of Democratic Politics. She studies democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies."
 url                      : "https://burcukolcak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "burcukolcak/burcukolcak.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

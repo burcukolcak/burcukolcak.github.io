@@ -5,14 +5,20 @@ permalink: /contact/
 author_profile: false
 ---
 
-<br/>
-<font size="4">
-
-bkolcak@princeton.edu <br><br>
-
-Princeton University <br>
-Department of Politics <br>
-231B Corwin Hall<br>
-Princeton, NJ 08544<br>
-
-<br><br>
+<div class="contact-grid" markdown="0">
+  <div>
+    <h3>Email</h3>
+    <address><a href="mailto:bkolcak@princeton.edu">bkolcak@princeton.edu</a></address>
+    <h3 style="margin-top:1.6em;">Elsewhere</h3>
+    <address><a href="https://scholar.google.com/citations?user=qpeYXQ4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a></address>
+  </div>
+  <div>
+    <h3>Office</h3>
+    <address>
+      231B Corwin Hall<br>
+      Department of Politics<br>
+      Princeton University<br>
+      Princeton, NJ 08544
+    </address>
+  </div>
+</div>

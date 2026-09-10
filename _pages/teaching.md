@@ -5,21 +5,31 @@ permalink: /teaching/
 author_profile: false
 ---
 
-### Instructor
+## Instructor
 
-<i> Intro to Political Science Research Methods</i>, Rutgers University, Summer 2021 & Summer 2022 (undergraduate)
+<div class="course" markdown="0">
+  <span class="course-title">Intro to Political Science Research Methods</span>
+  <p class="course-meta">Rutgers University &middot; Undergraduate &middot; Summer 2021, Summer 2022</p>
+</div>
 
-<i> Intro to R Workshop</i>, Rutgers University, Spring 2021 (graduate)
+<div class="course" markdown="0">
+  <span class="course-title">Intro to R Workshop</span>
+  <p class="course-meta">Rutgers University &middot; Graduate &middot; Spring 2021</p>
+</div>
 
-### Teaching Assistant
+## Teaching Assistant
 
-<i> Intro to Political Science Research Methods</i>, Rutgers University, Fall 2020 & Spring 2021 & Spring 2022 (undergraduate)
+<div class="course" markdown="0">
+  <span class="course-title">Intro to Political Science Research Methods</span>
+  <p class="course-meta">Rutgers University &middot; Undergraduate &middot; Fall 2020, Spring 2021, Spring 2022</p>
+</div>
 
-<i> Intro to Comparative Politics</i>, Rutgers University, Fall 2021 (undergraduate)
+<div class="course" markdown="0">
+  <span class="course-title">Intro to Comparative Politics</span>
+  <p class="course-meta">Rutgers University &middot; Undergraduate &middot; Fall 2021</p>
+</div>
 
-<i> Summer Institute in Computational Social Science (SICSS – Rutgers) </i>,  Summer 2021 (graduate)
-
-
-
-
-
+<div class="course" markdown="0">
+  <span class="course-title">Summer Institute in Computational Social Science (SICSS &ndash; Rutgers)</span>
+  <p class="course-meta">Rutgers University &middot; Graduate &middot; Summer 2021</p>
+</div>

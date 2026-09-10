@@ -1,0 +1,436 @@
+/* ==========================================================================
+   CUSTOM — layered on top of Minimal Mistakes / academicpages
+   Everything site-specific lives here so the theme stays upgradeable.
+   ========================================================================== */
+
+:root {
+  --ink:        #1c1b19;
+  --ink-soft:   #4a4642;
+  --muted:      #7c766f;
+  --rule:       #e4ded4;
+  --rule-soft:  #f0ebe3;
+  --accent:     #8f2d21;   /* deep brick — picked up from the Du Bois plate */
+  --accent-dk:  #6d211a;
+  --paper:      #fffdf9;
+  --measure:    38rem;     /* ~68 characters of prose */
+}
+
+/* --------------------------------------------------------------------------
+   Typography
+   -------------------------------------------------------------------------- */
+
+$body-serif: "Source Serif 4", "Source Serif Pro", Charter, "Iowan Old Style", Georgia, serif;
+$ui-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+html { font-size: 17px; }
+@media (min-width: 64em) { html { font-size: 18px; } }
+
+body {
+  font-family: $body-serif;
+  color: var(--ink);
+  background-color: var(--paper);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title {
+  font-family: $ui-sans;
+  color: var(--ink);
+  letter-spacing: -0.012em;
+  font-weight: 600;
+}
+
+/* --------------------------------------------------------------------------
+   Masthead + navigation
+   -------------------------------------------------------------------------- */
+
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  background-color: var(--paper);
+}
+
+.masthead__inner-wrap {
+  max-width: 56rem;
+  padding-top: 1.15em;
+  padding-bottom: 1.15em;
+  font-family: $ui-sans;
+}
+
+.site-title {
+  font-family: $body-serif !important;
+  font-weight: 600;
+  font-size: 1.18em;
+  letter-spacing: 0.005em;
+  color: var(--ink) !important;
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    font-family: $ui-sans;
+    font-size: 0.82em;
+    font-weight: 500;
+    letter-spacing: 0.045em;
+    text-transform: uppercase;
+    color: var(--muted);
+    transition: color 0.15s ease, border-color 0.15s ease;
+    border-bottom: 1.5px solid transparent;
+    padding-bottom: 2px;
+
+    &:hover {
+      color: var(--ink);
+    }
+  }
+
+  .visible-links a:before { display: none; }   /* kill the theme's slide-in underline */
+
+  .visible-links li a.active,
+  .visible-links li a[aria-current="page"] {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Page shell + measure
+   -------------------------------------------------------------------------- */
+
+#main {
+  max-width: 56rem;
+  margin-top: 2.75em;
+}
+
+.page {
+  padding-right: 0;
+}
+
+.page__content {
+  font-size: 1em;
+  line-height: 1.62;
+
+  p, li {
+    max-width: var(--measure);
+    color: var(--ink-soft);
+  }
+
+  p { margin: 0 0 1.15em; }
+
+  a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(143, 45, 33, 0.28);
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      color: var(--accent-dk);
+      border-bottom-color: var(--accent-dk);
+    }
+  }
+
+  h2 {
+    margin-top: 2.4em;
+    margin-bottom: 1em;
+    padding-bottom: 0.45em;
+    font-size: 0.86em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  h3 {
+    margin-top: 2.2em;
+    margin-bottom: 0.9em;
+    font-size: 0.86em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding-bottom: 0.45em;
+    border-bottom: 1px solid var(--rule);
+  }
+}
+
+.page__title {
+  font-size: 1.9em;
+  letter-spacing: -0.02em;
+  margin-bottom: 1.1em;
+}
+
+/* --------------------------------------------------------------------------
+   Home page
+   -------------------------------------------------------------------------- */
+
+.home-header {
+  margin-bottom: 2em;
+}
+
+.home-header h1 {
+  font-family: $body-serif;
+  font-size: 2.5em;
+  font-weight: 600;
+  line-height: 1.05;
+  letter-spacing: -0.022em;
+  margin: 0 0 0.34em;
+}
+
+.home-header .home-role {
+  font-family: $ui-sans;
+  font-size: 0.84em;
+  font-weight: 500;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  color: var(--muted);
+  line-height: 1.7;
+  margin: 0;
+  max-width: none;
+}
+
+.home-header .home-role span { white-space: nowrap; }
+
+.home-header .home-role .sep {
+  color: var(--rule);
+  margin: 0 0.5em;
+}
+
+.home-figure {
+  margin: 2.4em 0 2.6em;
+}
+
+.home-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+}
+
+.home-figure figcaption {
+  font-family: $ui-sans;
+  font-size: 0.72em;
+  line-height: 1.55;
+  color: var(--muted);
+  margin-top: 0.85em;
+  max-width: var(--measure);
+}
+
+.home-bio p:first-of-type {
+  font-size: 1.1em;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+/* Links row under the bio */
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55em;
+  margin: 2.2em 0 0;
+  padding: 0;
+  list-style: none;
+  max-width: none;
+}
+
+.home-links li { margin: 0; max-width: none; }
+
+.page__content .home-links a {
+  display: inline-block;
+  font-family: $ui-sans;
+  font-size: 0.78em;
+  font-weight: 500;
+  letter-spacing: 0.035em;
+  color: var(--ink-soft);
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 0.5em 1.05em;
+  text-decoration: none;
+  transition: all 0.15s ease;
+
+  &:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: #fff;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Research page
+   -------------------------------------------------------------------------- */
+
+.pub {
+  max-width: var(--measure);
+  margin: 0 0 1.6em;
+  padding-left: 1.15em;
+  border-left: 2px solid var(--rule-soft);
+}
+
+.pub:hover { border-left-color: var(--rule); }
+
+.pub .pub-title {
+  display: block;
+  font-size: 1.02em;
+  line-height: 1.42;
+  color: var(--ink);
+  margin-bottom: 0.28em;
+}
+
+.pub .pub-meta {
+  font-family: $ui-sans;
+  font-size: 0.79em;
+  line-height: 1.6;
+  color: var(--muted);
+  margin: 0;
+  max-width: none;
+}
+
+.pub .pub-venue { font-style: italic; }
+
+.pub .pub-year:after {
+  content: "·";
+  margin: 0 0.45em;
+  color: var(--rule);
+}
+
+.pub-links {
+  margin-top: 0.5em;
+  font-family: $ui-sans;
+  font-size: 0.76em;
+  letter-spacing: 0.03em;
+}
+
+.page__content .pub-links a {
+  color: var(--muted);
+  border-bottom: 1px solid var(--rule);
+  margin-right: 1em;
+
+  &:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+}
+
+/* Collapsible abstracts — no JavaScript */
+.pub details {
+  margin-top: 0.55em;
+}
+
+.pub details summary {
+  font-family: $ui-sans;
+  font-size: 0.76em;
+  letter-spacing: 0.03em;
+  color: var(--muted);
+  cursor: pointer;
+  list-style: none;
+  display: inline-block;
+  border-bottom: 1px solid var(--rule);
+}
+
+.pub details summary::-webkit-details-marker { display: none; }
+.pub details summary:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.pub details summary:before { content: "+ "; }
+.pub details[open] summary:before { content: "– "; }
+.pub details[open] summary { margin-bottom: 0.7em; }
+
+.pub details p {
+  font-size: 0.92em;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 0;
+  padding: 0.9em 1.05em;
+  background: #faf7f1;
+  border-radius: 3px;
+  max-width: none;
+}
+
+/* --------------------------------------------------------------------------
+   Teaching page
+   -------------------------------------------------------------------------- */
+
+.course {
+  max-width: var(--measure);
+  margin-bottom: 1.15em;
+  padding-left: 1.15em;
+  border-left: 2px solid var(--rule-soft);
+}
+
+.course .course-title {
+  display: block;
+  font-size: 1em;
+  line-height: 1.45;
+  color: var(--ink);
+}
+
+.course .course-meta {
+  font-family: $ui-sans;
+  font-size: 0.79em;
+  color: var(--muted);
+  margin: 0.15em 0 0;
+  max-width: none;
+}
+
+/* --------------------------------------------------------------------------
+   Contact page
+   -------------------------------------------------------------------------- */
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 2.2em;
+  max-width: var(--measure);
+  margin-top: 0.5em;
+}
+
+.contact-grid h3 {
+  margin-top: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0.6em;
+}
+
+.contact-grid address {
+  font-style: normal;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+
+.page__footer {
+  margin-top: 4.5em;
+  background: transparent;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+}
+
+.page__footer footer {
+  max-width: 56rem;
+  padding-top: 1.6em;
+  padding-bottom: 2.4em;
+}
+
+.page__footer a { color: var(--muted); }
+.page__footer a:hover { color: var(--accent); }
+
+.page__footer-copyright {
+  font-family: $ui-sans;
+  font-size: 0.74em;
+  letter-spacing: 0.02em;
+}
+
+/* --------------------------------------------------------------------------
+   Small screens
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 47em) {
+  html { font-size: 16px; }
+  .home-header h1 { font-size: 2.05em; }
+  #main { margin-top: 1.9em; }
+  .home-figure { margin: 1.9em 0 2em; }
+}
