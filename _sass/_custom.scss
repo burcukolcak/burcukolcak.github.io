@@ -174,10 +174,11 @@ h1, h2, h3, h4, h5, h6,
   border: 1px solid var(--rule);
 }
 
-.home-bio p:first-of-type {
-  font-size: 1.08em;
-  line-height: 1.55;
-  color: var(--ink);
+/* All three paragraphs read as one block — same size, same colour. */
+.home-bio p {
+  font-size: 1em;
+  line-height: 1.62;
+  color: var(--ink-soft);
 }
 
 .home-links {
