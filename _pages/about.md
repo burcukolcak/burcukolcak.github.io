@@ -21,6 +21,5 @@ Prior to my Ph.D., I completed master's degrees in Political Theory at the Londo
 
 <ul class="home-links">
   <li><a href="/research/">Research</a></li>
-  <li><a href="https://scholar.google.com/citations?user=qpeYXQ4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
   <li><a href="mailto:bkolcak@princeton.edu">bkolcak@princeton.edu</a></li>
 </ul>
