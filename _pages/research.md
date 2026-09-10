@@ -103,4 +103,27 @@ author_profile: false
 
 </ol>
 
+## In Progress
 
+<ol class="pubs">
+
+<li markdown="0">
+  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule.</span>
+  <span class="pub-status">Book project.</span>
+</li>
+
+<li markdown="0">
+  <span class="pub-title">Race and Ethnicity in Democracy? Racial and Ethnic Incorporation and the Varieties of Democratic Rule.</span>
+</li>
+
+<li markdown="0">
+  <span class="pub-title">Multiracial Democracy in America? Conceptions of Democracy and Support for Anti-Democratic Attitudes.</span>
+  <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
+</li>
+
+<li markdown="0">
+  <span class="pub-title">Assessing Identity as Constraint on Democratic Accountability.</span>
+  <span class="pub-authors">(with Ismail K. White).</span>
+</li>
+
+</ol>

@@ -5,15 +5,15 @@
    so it does not depend on the theme's Sass build.
    ========================================================================== */
 :root {
-  --ink: #1c1b19;
-  --ink-soft: #3d3a36;
-  --muted: #7c766f;
-  --rule: #e4ded4;
-  --rule-soft: #f0ebe3;
-  --accent: #8f2d21;
-  --accent-dk: #6d211a;
-  --paper: #fffdf9;
-  --measure: 44rem;
+  --ink: #131313;
+  --ink-soft: #2e2e2e;
+  --muted: #8d8d8d;
+  --rule: #e8e8e8;
+  --rule-soft: #f2f2f2;
+  --accent: #131313;
+  --accent-dk: #000000;
+  --paper: #ffffff;
+  --measure: 46rem;
 }
 
 /* --------------------------------------------------------------------------
@@ -416,5 +416,170 @@ h1, h2, h3, h4, h5, h6,
   }
   .home-figure {
     margin-bottom: 1.8em;
+  }
+}
+/* --------------------------------------------------------------------------
+   Portfolio: white, wide margins, the image carries the page.
+   -------------------------------------------------------------------------- */
+body {
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: 0.005em;
+}
+
+/* Nav: small, quiet, no rule beneath it. */
+.masthead {
+  border-bottom: none;
+}
+
+.masthead__inner-wrap {
+  max-width: 64rem;
+  padding-top: 2.6em;
+  padding-bottom: 2.6em;
+}
+
+.greedy-nav a {
+  font-size: 0.86em;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: none;
+  color: var(--muted);
+  border-bottom: 1px solid transparent;
+}
+
+.greedy-nav a:hover {
+  color: var(--ink);
+}
+
+.greedy-nav .visible-links li a.active,
+.greedy-nav .visible-links li a[aria-current=page] {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+#main {
+  max-width: 64rem;
+  margin-top: 0;
+}
+
+/* The picture, given room. */
+.home-figure {
+  margin: 0 0 5em;
+}
+
+.home-figure img {
+  border: none;
+}
+
+/* Text runs the full width of the picture above it. */
+.home-bio {
+  max-width: none;
+}
+
+.home-bio p {
+  max-width: none;
+  font-size: 1.02em;
+  line-height: 1.8;
+  color: var(--ink-soft);
+  margin-bottom: 1.7em;
+}
+
+.home-links {
+  gap: 0 2.2em;
+  margin-top: 3.2em;
+}
+
+.page__content .home-links a {
+  font-size: 0.86em;
+  letter-spacing: 0.06em;
+  text-transform: none;
+  color: var(--muted);
+  border-bottom: 1px solid transparent;
+  padding: 0 0 3px;
+}
+
+.page__content .home-links a:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+/* Research: headings become quiet labels, no rules, generous air. */
+.page__content h2,
+.page__content h3 {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-top: 4.2em;
+  margin-bottom: 1.6em;
+  font-size: 0.88em;
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  text-transform: none;
+  color: var(--muted);
+}
+
+.page__content h2:first-child, .page__content h3:first-child {
+  margin-top: 0;
+}
+
+.page__content ol.pubs > li {
+  margin-bottom: 2.1em;
+  line-height: 1.75;
+}
+
+.page__content ol.pubs > li::marker {
+  color: #c9c9c9;
+}
+
+.page__content ol.pubs a.pub-title {
+  color: var(--ink);
+}
+
+.page__content ol.pubs a.pub-title:hover {
+  color: #000;
+  border-bottom: 1px solid #000;
+}
+
+.pubs .pub-venue {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.pubs .pub-authors {
+  color: var(--muted);
+}
+
+.pubs details summary {
+  border-bottom: none;
+  letter-spacing: 0.05em;
+  font-size: 0.8em;
+}
+
+.pubs details summary:hover {
+  color: var(--ink);
+}
+
+.pubs details p {
+  background: #fafafa;
+}
+
+.page__footer {
+  border-top: none;
+  margin-top: 7em;
+}
+
+.page__footer footer {
+  max-width: 64rem;
+  padding-bottom: 4em;
+}
+
+@media (max-width: 47em) {
+  .masthead__inner-wrap {
+    padding-top: 1.6em;
+    padding-bottom: 1.6em;
+  }
+  .home-figure {
+    margin-bottom: 3em;
+  }
+  .page__content h2, .page__content h3 {
+    margin-top: 3em;
   }
 }

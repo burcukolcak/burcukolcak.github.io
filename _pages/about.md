@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <figure class="home-figure">
-  <img src="/seventhward-web.jpg" alt="Detail from W. E. B. Du Bois's map of Philadelphia's Seventh Ward, 1899.">
+  <img src="/cajal-web.jpg" alt="Three ink drawings by Santiago Ram&oacute;n y Cajal showing neurons and their branching connections.">
 </figure>
 
 <div class="home-bio" markdown="1">
@@ -21,5 +21,6 @@ Prior to my Ph.D., I completed master's degrees in Political Theory at the Londo
 
 <ul class="home-links">
   <li><a href="/research/">Research</a></li>
+  <li><a href="https://scholar.google.com/citations?user=qpeYXQ4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
   <li><a href="mailto:bkolcak@princeton.edu">bkolcak@princeton.edu</a></li>
 </ul>
