@@ -90,6 +90,12 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+# GitHub Pages enables jekyll-titles-from-headings by default: with a blank
+# front-matter title it adopts the page's first heading as the title, which
+# then renders twice. Turn it off and let front matter decide.
+titles_from_headings:
+  enabled: false
+
 # Reading Files
 include:
   - .htaccess

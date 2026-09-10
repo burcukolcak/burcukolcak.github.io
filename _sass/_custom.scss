@@ -151,8 +151,9 @@ h1, h2, h3, h4, h5, h6,
 .page__content h2:first-child,
 .page__content h3:first-child { margin-top: 0; }
 
-/* The home page has no heading; never leave an empty one taking up space. */
-.page__title:empty { display: none; }
+/* Page titles stay in the front matter (browser tab, search results) but are
+   not shown on the page — each page opens on its own section headings. */
+.page__title { display: none; }
 
 .page__title {
   font-size: 1.9em;
