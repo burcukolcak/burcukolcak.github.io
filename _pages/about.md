@@ -1,6 +1,6 @@
 ---
+layout: single
 permalink: /
-title: ""
 excerpt: "About me"
 author_profile: false
 ---

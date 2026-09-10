@@ -151,6 +151,9 @@ h1, h2, h3, h4, h5, h6,
 .page__content h2:first-child,
 .page__content h3:first-child { margin-top: 0; }
 
+/* The home page has no heading; never leave an empty one taking up space. */
+.page__title:empty { display: none; }
+
 .page__title {
   font-size: 1.9em;
   letter-spacing: -0.02em;
@@ -180,8 +183,8 @@ h1, h2, h3, h4, h5, h6,
 .home-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55em;
-  margin: 2em 0 0;
+  gap: 0 1.6em;
+  margin: 1.9em 0 0;
   padding: 0;
   list-style: none;
   max-width: none;
@@ -189,19 +192,21 @@ h1, h2, h3, h4, h5, h6,
 
 .home-links li { margin: 0; max-width: none; }
 
+/* Plain text links, not buttons. */
 .page__content .home-links a {
   display: inline-block;
-  font-size: 0.85em;
-  color: var(--ink-soft);
-  background: #fff;
-  border: 1px solid var(--rule);
-  border-radius: 999px;
-  padding: 0.5em 1.05em;
+  font-size: 0.95em;
+  color: var(--accent);
+  background: none;
+  border: 0;
+  border-bottom: 1px solid rgba(143, 45, 33, 0.25);
+  border-radius: 0;
+  padding: 0 0 1px;
 }
 
 .page__content .home-links a:hover {
-  color: var(--accent);
-  border-color: var(--accent);
+  color: var(--accent-dk);
+  border-bottom-color: var(--accent-dk);
 }
 
 /* --------------------------------------------------------------------------
@@ -227,15 +232,17 @@ h1, h2, h3, h4, h5, h6,
   font-variant-numeric: tabular-nums;
 }
 
-/* The title is the link */
+/* The title is the link — colour only, no underline. */
 .page__content ol.pubs a.pub-title {
   color: var(--accent);
-  border-bottom: 1px solid rgba(143, 45, 33, 0.3);
+  border-bottom: none;
+  text-decoration: none;
 }
 
 .page__content ol.pubs a.pub-title:hover {
   color: var(--accent-dk);
-  border-bottom-color: var(--accent-dk);
+  border-bottom: none;
+  text-decoration: none;
 }
 
 /* Unlinked titles (nothing to point at yet) stay black */

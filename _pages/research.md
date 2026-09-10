@@ -105,6 +105,10 @@ author_profile: false
 </li>
 
 <li markdown="0">
+  <span class="pub-title">Patterns of Racialized Democracy across Space and Time.</span>
+</li>
+
+<li markdown="0">
   <span class="pub-title">Multiracial Democracy in America? Conceptions of Democracy and Support for Anti-Democratic Attitudes.</span>
   <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
 </li>
@@ -112,6 +116,16 @@ author_profile: false
 <li markdown="0">
   <span class="pub-title">Assessing Identity as Constraint on Democratic Accountability.</span>
   <span class="pub-authors">(with Ismail K. White).</span>
+</li>
+
+<li markdown="0">
+  <span class="pub-title">Shared Disadvantage: Intergroup Conflict or Intergroup Solidarity?</span>
+  <span class="pub-authors">(with Sonya Chen, Davin Phoenix, and LaFleur Stephens-Dougan).</span>
+</li>
+
+<li markdown="0">
+  <span class="pub-title">Lost in Translation: Racial Identity and Perceptions of Democracy Abroad.</span>
+  <span class="pub-authors">(with Rikio Inouye and Gavin Medina-Hall).</span>
 </li>
 
 </ol>
