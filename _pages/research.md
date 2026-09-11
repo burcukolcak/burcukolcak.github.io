@@ -97,7 +97,7 @@ author_profile: false
 </li>
 
 <li markdown="0">
-  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment.</span>
+  <span class="pub-title"> Symbolic Support without Material Sacrifice: Racial Liberalism and the Limits of Costly Political Engagement.</span>
   <span class="pub-authors">(with LaFleur Stephens-Dougan).</span>
 </li>
 
