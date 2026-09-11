@@ -97,6 +97,11 @@ author_profile: false
 </li>
 
 <li markdown="0">
+  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment.</span>
+  <span class="pub-authors">(with LaFleur Stephens-Dougan).</span>
+</li>
+
+<li markdown="0">
   <span class="pub-title">The Boundaries of Coalition Building: The Case of “People of Color” Identity.</span>
   <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White).</span>
 </li>
