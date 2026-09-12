@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <figure class="home-figure">
-  <img src="/cajal-band.jpg" alt="Detail from an ink drawing by Santiago Ram&oacute;n y Cajal: pyramidal neurons of the cerebral cortex with their branching dendrites.">
+  <img src="/cajal-band.jpg" alt="Detail from an ink drawing by Santiago Ram&oacute;n y Cajal: pyramidal neurons of the cerebral cortex, their cell bodies and branching dendrites.">
 </figure>
 
 <div class="home-bio" markdown="1">
