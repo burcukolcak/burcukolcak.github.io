@@ -11,7 +11,7 @@ author_profile: false
 
 <div class="home-bio" markdown="1">
 
-I am a Postdoctoral Researcher at Princeton University's Center for the Study of Democratic Politics, affiliated with the Lab on Politics, Race, and Experimental Methods. I am also a Postdoctoral Research Affiliate at Yale University's Identity and Conflict Lab. I received my Ph.D. in Political Science from Rutgers University in 2025.
+I am a Postdoctoral Researcher at Princeton University's Center for the Study of Democratic Politics, affiliated with the Lab on Politics, Race, and Experimental Methods. I received my Ph.D. in Political Science from Rutgers University in 2025.
 
 My research centers on democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies, drawing on democratic theory, political behavior, political psychology, and behavioral economics.
 
