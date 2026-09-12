@@ -21,7 +21,8 @@ author_profile: false
 
 <div class="course" markdown="0">
   <span class="course-title">Intro to Political Science Research Methods</span>
-  <p class="course-meta">Rutgers University &middot; Undergraduate &middot; Fall 2020, Spring 2021, Spring 2022</p>
+  <p class="course-meta">Rutgers University, Undergraduate
+  <p class="course-meta">  Fall 2020, Spring 2021, Spring 2022</p>
 </div>
 
 <div class="course" markdown="0">
