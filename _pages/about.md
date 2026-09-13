@@ -7,12 +7,12 @@ author_profile: false
 
 <figure class="home-figure">
   <img src="/cajal-band.jpg" alt="Detail from an ink drawing by Santiago Ram&oacute;n y Cajal: pyramidal neurons of the cerebral cortex, their cell bodies and branching dendrites.">
-  <figcaption class="home-credit">Santiago Ram&oacute;n y Cajal, Instituto Cajal (CSIC), Madrid.</figcaption>
+  <figcaption class="home-credit">Santiago Ram&oacute;n y Cajal.</figcaption>
 </figure>
 
 <div class="home-bio" markdown="1">
 
-I am a Postdoctoral Researcher at Princeton University's Center for the Study of Democratic Politics, affiliated with the Lab on Politics, Race, and Experimental Methods. I received my Ph.D. in Political Science from Rutgers University in 2025.
+I am a Postdoctoral Researcher at Princeton University's Center for the Study of Democratic Politics, affiliated with the Lab on Politics, Race & Experimental Methods. I am also a Postdoctoral Research Affiliate at the Identity & Conflict Lab at Yale University. I received my Ph.D. in Political Science from Rutgers University in 2025.
 
 My research centers on democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies, drawing on democratic theory, political behavior, political psychology, and behavioral economics.
 
