@@ -437,7 +437,7 @@ body { -webkit-font-smoothing: antialiased; letter-spacing: 0.005em; }
   font-weight: 500;
   letter-spacing: 0.09em;
   text-transform: none;
-  color: var(--muted);
+  color: #565656;   /* darker grey than the old --muted #8d8d8d */
 }
 .page__content h2:first-child, .page__content h3:first-child { margin-top: 0; }
 
@@ -460,3 +460,45 @@ body { -webkit-font-smoothing: antialiased; letter-spacing: 0.005em; }
   .home-figure { margin-bottom: 3em; }
   .page__content h2, .page__content h3 { margin-top: 3em; }
 }
+
+
+/* --------------------------------------------------------------------------
+   Links: black at rest, brick red on interaction.
+   A restraint choice — nothing is coloured until someone reaches for it.
+   :focus-visible is included so keyboard users get the same cue as the mouse,
+   and :active so a tap on a phone flashes the colour too.
+   -------------------------------------------------------------------------- */
+
+:root { --link-hot: #a3382b; }
+
+.page__content ol.pubs a.pub-title { color: var(--ink); }
+
+/* Colour only — the theme adds an underline on hover, which we don't want. */
+.page__content ol.pubs a.pub-title:hover,
+.page__content ol.pubs a.pub-title:focus-visible,
+.page__content ol.pubs a.pub-title:active {
+  color: var(--link-hot);
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.page__content a:hover,
+.page__content a:focus-visible,
+.page__content a:active { color: var(--link-hot); border-bottom-color: var(--link-hot); }
+
+.page__content .home-links a:hover,
+.page__content .home-links a:focus-visible,
+.page__content .home-links a:active { color: var(--link-hot); border-bottom-color: var(--link-hot); }
+
+.greedy-nav a:hover,
+.greedy-nav a:focus-visible { color: var(--link-hot); }
+
+.greedy-nav .visible-links li a.active,
+.greedy-nav .visible-links li a[aria-current="page"] { border-bottom-color: var(--link-hot); }
+
+.pubs details summary:hover,
+.pubs details summary:focus-visible { color: var(--link-hot); border-bottom-color: var(--link-hot); }
+
+/* Section headings: same grey, a touch more weight so they read as definite. */
+.page__content h2,
+.page__content h3 { font-weight: 600; }
