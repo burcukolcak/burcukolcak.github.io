@@ -473,6 +473,19 @@ body { -webkit-font-smoothing: antialiased; letter-spacing: 0.005em; }
 
 .page__content ol.pubs a.pub-title { color: var(--ink); }
 
+/* Home page links: same pattern as the publication titles — dark at rest,
+   brick red on interaction, rather than the quiet grey they were. */
+.page__content .home-links a { color: var(--ink-soft); }
+
+/* Credit line under the picture. */
+.home-credit {
+  font-size: 0.78em;
+  line-height: 1.5;
+  color: #7a7a7a;
+  margin-top: 0.9em;
+  max-width: var(--measure);
+}
+
 /* Colour only — the theme adds an underline on hover, which we don't want. */
 .page__content ol.pubs a.pub-title:hover,
 .page__content ol.pubs a.pub-title:focus-visible,
@@ -482,9 +495,22 @@ body { -webkit-font-smoothing: antialiased; letter-spacing: 0.005em; }
   border-bottom: none;
 }
 
+/* One line, not two. The theme adds text-decoration: underline on hover; we
+   draw our own border-bottom, so the theme's underline is switched off
+   everywhere or you get a double rule. */
+.page__content a,
+.page__content a:hover,
+.page__content a:focus-visible,
+.page__content a:active { text-decoration: none; }
+
 .page__content a:hover,
 .page__content a:focus-visible,
 .page__content a:active { color: var(--link-hot); border-bottom-color: var(--link-hot); }
+
+.page__content .home-links a,
+.page__content .home-links a:hover,
+.page__content .home-links a:focus-visible,
+.page__content .home-links a:active { text-decoration: none; }
 
 .page__content .home-links a:hover,
 .page__content .home-links a:focus-visible,
