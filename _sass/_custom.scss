@@ -480,8 +480,9 @@ body { -webkit-font-smoothing: antialiased; letter-spacing: 0.005em; }
 /* Credit line under the picture. */
 .home-credit {
   font-size: 0.78em;
+  font-style: italic;
   line-height: 1.5;
-  color: #7a7a7a;
+  color: #9b9b9b;
   margin-top: 0.9em;
   max-width: var(--measure);
 }
