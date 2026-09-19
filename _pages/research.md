@@ -20,22 +20,22 @@ author_profile: false
 </li>
 
 <li markdown="0">
-  <a class="pub-title" href="https://doi.org/10.1177/00220027251365535" target="_blank" rel="noopener">Military Experience and Casualty Sensitivity in Elite Discourse.</a>
-  2026. <span class="pub-venue">Journal of Conflict Resolution</span>.
-  <span class="pub-authors">(with Michael Kenwick and Sumin Lee).</span>
-  <details>
-    <summary>Abstract</summary>
-    <p>Veterans are disproportionately represented among political elites, and the question of whether military experience shapes their behavior is a central puzzle in the study of international relations. Existing theories link military experience with hawkish or dovish foreign policy preferences. Rather than determining their positions on the use of force ex ante, we argue that domain-specific knowledge and their elevated social status will make veterans less likely to change their expressed positions, especially in response to wartime casualties. We test our argument by analyzing Congressional speeches referencing the American wars in Iraq and Afghanistan, finding strong support for our expectations. Our core insight is that veteran politicians are partisans first and veterans second, and that military experience may say more about how they update, rather than establish, their political positions.</p>
-  </details>
-</li>
-
-<li markdown="0">
   <a class="pub-title" href="https://doi.org/10.1017/S1537592724000604" target="_blank" rel="noopener">Federalism and Democratic Backsliding in Comparative Perspective.</a>
   2025. <span class="pub-venue">Perspectives on Politics</span> 23(1): 15–34.
   <span class="pub-authors">(with Robert R. Kaufman and R. Daniel Kelemen).</span>
   <details>
     <summary>Abstract</summary>
     <p>As a wave of backsliding has swept across both new and established democracies, scholars have sought to identify formal and informal institutions that can act as guardrails of democracy. But while informal norms, party structures, and formal institutions such as separation of powers have all been singled out as potential bulwarks against democratic backsliding, the literature has had less to say about what role, if any, federalism might play in stopping democracies from sliding into autocracy. While some constitutional designers and scholars have argued that federalism can help to prevent the emergence of a national tyranny, most contemporary research has emphasized the damaging effects federalism can have on democracy. In this article, we assess the relationship between federalism and threats posed by national rulers, with quantitative analysis of that relationship in countries around the world and with structured, focused comparative case studies in the United States, Brazil, Venezuela, and India. Our quantitative analysis finds no systematic relationship between federalism and backsliding, while our comparative case studies support our argument that federalism is only likely to serve as a bulwark against autocratic threats posed by national rulers under a limited set of conditions.</p>
+  </details>
+</li>
+
+<li markdown="0">
+  <a class="pub-title" href="https://doi.org/10.1177/00220027251365535" target="_blank" rel="noopener">Military Experience and Casualty Sensitivity in Elite Discourse.</a>
+  2025. <span class="pub-venue">Journal of Conflict Resolution</span>.
+  <span class="pub-authors">(with Michael Kenwick and Sumin Lee).</span>
+  <details>
+    <summary>Abstract</summary>
+    <p>Veterans are disproportionately represented among political elites, and the question of whether military experience shapes their behavior is a central puzzle in the study of international relations. Existing theories link military experience with hawkish or dovish foreign policy preferences. Rather than determining their positions on the use of force ex ante, we argue that domain-specific knowledge and their elevated social status will make veterans less likely to change their expressed positions, especially in response to wartime casualties. We test our argument by analyzing Congressional speeches referencing the American wars in Iraq and Afghanistan, finding strong support for our expectations. Our core insight is that veteran politicians are partisans first and veterans second, and that military experience may say more about how they update, rather than establish, their political positions.</p>
   </details>
 </li>
 
