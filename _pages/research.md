@@ -118,6 +118,10 @@ author_profile: false
 </li>
 
 <li markdown="0">
+  <span class="pub-title">Patterns of Racialized Democracy across Space and Time.</span>
+</li>
+
+<li markdown="0">
   <span class="pub-title">Race and Ethnicity in Democracy? Racial and Ethnic Incorporation and the Varieties of Democratic Rule.</span>
 </li>
 
