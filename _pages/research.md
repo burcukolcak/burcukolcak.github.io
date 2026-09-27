@@ -81,8 +81,8 @@ author_profile: false
 
 ## Working Papers
 
-<ol class="pubs">
-
+<ul class="pubs">
+  
 <li markdown="0">
   <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion.</span>
 </li>
@@ -110,8 +110,8 @@ author_profile: false
 
 ## Selected Work in Progress
 
-<ol class="pubs">
-
+<ul class="pubs">
+  
 <li markdown="0">
   <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule</span>
 <span class="pub-status"><strong>[Book project].</strong></span>
