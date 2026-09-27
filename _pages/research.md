@@ -130,8 +130,4 @@ author_profile: false
   <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
 </p>
 
-<p>
-  <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Opposition Enclaves.</span>
-</p>
-
 </div>
