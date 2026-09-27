@@ -82,7 +82,7 @@ author_profile: false
 ## Working Papers
 
 <ul class="pubs">
-  
+
 <li markdown="0">
   <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion.</span>
 </li>
@@ -97,7 +97,7 @@ author_profile: false
 </li>
 
 <li markdown="0">
-  <span class="pub-title"> Symbolic Support without Material Sacrifice: Racial Liberalism and the Limits of Costly Political Engagement.</span>
+  <span class="pub-title">Symbolic Support without Material Sacrifice: Racial Liberalism and the Limits of Costly Political Engagement.</span>
   <span class="pub-authors">(with LaFleur Stephens-Dougan).</span>
 </li>
 
@@ -106,15 +106,15 @@ author_profile: false
   <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White).</span>
 </li>
 
-</ol>
+</ul>
 
 ## Selected Work in Progress
 
 <ul class="pubs">
-  
+
 <li markdown="0">
-  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule</span>
-<span class="pub-status"><strong>[Book project].</strong></span>
+  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule.</span>
+  <span class="pub-status"><strong>[Book Project]</strong></span>
 </li>
 
 <li markdown="0">
@@ -134,4 +134,4 @@ author_profile: false
   <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
 </li>
 
-</ol>
+</ul>
