@@ -134,9 +134,4 @@ author_profile: false
   <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
 </li>
 
-<li markdown="0">
-  <span class="pub-title">Assessing Identity as Constraint on Democratic Accountability.</span>
-  <span class="pub-authors">(with Ismail K. White).</span>
-</li>
-
 </ol>
