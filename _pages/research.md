@@ -126,10 +126,6 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Opposition Enclaves.</span>
-</p>
-
-<p>
   <span class="pub-title">Multiracial Democracy in America? Conceptions of Democracy and Support for Anti-Democratic Attitudes.</span>
   <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
 </p>
