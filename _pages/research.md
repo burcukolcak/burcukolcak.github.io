@@ -88,7 +88,7 @@ author_profile: false
 </li>
 
 <li markdown="0">
-  <span class="pub-title">When Empowerment Threatens: Minority Political Gains and Racialized Democratic Exclusion.</span>
+  <span class="pub-title">Framing Minority Political Empowerment: Threat, Coalition-Building, and Democratic Inclusion.</span>
 </li>
 
 <li markdown="0">
@@ -108,7 +108,7 @@ author_profile: false
 
 </ol>
 
-## In Progress
+## Selected Work in Progress
 
 <ol class="pubs">
 
@@ -118,11 +118,15 @@ author_profile: false
 </li>
 
 <li markdown="0">
-  <span class="pub-title">Patterns of Racialized Democracy across Space and Time.</span>
+  <span class="pub-title">The Dynamics of Democratic Judgment: Ethnic Identity, Information, and the Boundaries of Democracy.</span>
 </li>
 
 <li markdown="0">
   <span class="pub-title">Race and Ethnicity in Democracy? Racial and Ethnic Incorporation and the Varieties of Democratic Rule.</span>
+</li>
+
+<li markdown="0">
+  <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Opposition Enclaves.</span>
 </li>
 
 <li markdown="0">
