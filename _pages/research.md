@@ -5,6 +5,18 @@ permalink: /research/
 author_profile: false
 ---
 
+<style>
+.pubs {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.pubs li {
+  margin-bottom: 0.6em;
+}
+</style>
+
 ## Peer-Reviewed Publications
 
 <ol class="pubs" reversed>
