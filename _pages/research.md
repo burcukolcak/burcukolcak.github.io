@@ -5,18 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-<style>
-.pubs {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 0;
-}
-
-.pubs li {
-  margin-bottom: 0.6em;
-}
-</style>
-
 ## Peer-Reviewed Publications
 
 <ol class="pubs" reversed>
@@ -93,57 +81,57 @@ author_profile: false
 
 ## Working Papers
 
-<ul class="pubs">
+<div class="pubs">
 
-<li markdown="0">
+<p>
   <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion.</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">Framing Minority Political Empowerment: Threat, Coalition-Building, and Democratic Inclusion.</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment.</span>
   <span class="pub-authors">(with Ismail K. White).</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">Symbolic Support without Material Sacrifice: Racial Liberalism and the Limits of Costly Political Engagement.</span>
   <span class="pub-authors">(with LaFleur Stephens-Dougan).</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">The Boundaries of Coalition Building: The Case of “People of Color” Identity.</span>
   <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White).</span>
-</li>
+</p>
 
-</ul>
+</div>
 
 ## Selected Work in Progress
 
-<ul class="pubs">
+<div class="pubs">
 
-<li markdown="0">
+<p>
   <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule.</span>
   <span class="pub-status"><strong>[Book Project]</strong></span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">The Dynamics of Democratic Judgment: Ethnic Identity, Information, and the Boundaries of Democracy.</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">Race and Ethnicity in Democracy? Racial and Ethnic Incorporation and the Varieties of Democratic Rule.</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Opposition Enclaves.</span>
-</li>
+</p>
 
-<li markdown="0">
+<p>
   <span class="pub-title">Multiracial Democracy in America? Conceptions of Democracy and Support for Anti-Democratic Attitudes.</span>
   <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
-</li>
+</p>
 
-</ul>
+</div>
