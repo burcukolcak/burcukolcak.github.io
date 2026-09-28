@@ -88,7 +88,7 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">Framing Minority Political Empowerment: Threat, Coalition-Building, and Democratic Inclusion.</span>
+  <span class="pub-title">Framing Minority Political Empowerment.</span>
 </p>
 
 <p>
@@ -113,8 +113,7 @@ author_profile: false
 <div class="pubs">
 
 <p>
-  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule.</span>
-  <span class="pub-status"><strong>[Book Project]</strong></span>
+  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule <strong>[Book Project].</strong></span>
 </p>
 
 <p>
