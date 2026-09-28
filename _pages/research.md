@@ -113,7 +113,7 @@ author_profile: false
 <div class="pubs">
 
 <p>
-  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule <strong>[Book Project].</strong></span>
+  <span class="pub-title">Bounded Democracy: Race, Ethnicity, and the Contested Meaning of Democratic Rule. <strong>[Book Project].</strong></span>
 </p>
 
 <p>
