@@ -14,7 +14,7 @@ author_profile: false
 
 I am a Postdoctoral Researcher at Princeton University's Center for the Study of Democratic Politics, affiliated with the Lab on Politics, Race & Experimental Methods. I am also a Postdoctoral Research Affiliate at the Identity & Conflict Lab at Yale University. I received my Ph.D. in Political Science from Rutgers University in 2025.
 
-My research sits at the intersection of democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies, drawing on democratic theory, political behavior, political psychology, and behavioral economics. I study when and how race, ethnicity, and immigration shape the boundaries of democratic membership and belonging. Across my work, I examine how these boundaries are drawn, defended, contested, and transformed across diverse societies, focusing on both dominant and marginalized groups. My work relies primarily on survey and experimental methods, complemented by quantitative text analysis, geospatial methods, and qualitative research.
+My research sits at the intersection of democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies, drawing on democratic theory, political behavior, political psychology, and behavioral economics. My work relies primarily on survey and experimental methods, complemented by quantitative text analysis, geospatial methods, and qualitative research.
 
 Prior to my Ph.D., I completed master's degrees in Political Theory at the London School of Economics and in Philosophy at Middle East Technical University.
 
