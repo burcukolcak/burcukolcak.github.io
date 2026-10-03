@@ -7,7 +7,7 @@ author_profile: false
 
 ## Peer-Reviewed Publications
 
-<ol class="pubs" reversed>
+<ol class="pubs">
 
 <li markdown="0">
   <span class="pub-title">Identity Politics? Black Voters and the Logic of Co-Racial Voting in American Elections.</span>
