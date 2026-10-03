@@ -92,8 +92,8 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment <em>(Draft available upon request).</em></span>
-  <span class="pub-authors">(with Ismail K. White).</span>
+  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment </span>
+  <span class="pub-authors">(with Ismail K. White) <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
