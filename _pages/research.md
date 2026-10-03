@@ -12,7 +12,7 @@ author_profile: false
 <li markdown="0">
   <span class="pub-title">Identity Politics? Black Voters and the Logic of Co-Racial Voting in American Elections.</span>
   <span class="pub-status">Conditionally accepted,</span> <span class="pub-venue">American Political Science Review</span>.
-  <span class="pub-authors">(with Tina LaChapelle, Corrine McConnaughy, Melanye Price, and Ismail K. White).</span>
+  <span class="pub-authors">(with Tina LaChapelle, Corrine McConnaughy, Melanye Price, and Ismail K. White) (Draft available upon request).</span>
   <details>
     <summary>Abstract</summary>
     <p>For decades, scholars and commentators have debated whether political decisions rooted in shared identity undermine democratic accountability. This paper engages with this question by explaining the logic of co-racial voting in American elections and arguing that it can be a reasonable and appropriate use of identity in politics. We begin by developing a conceptual model that leverages the dynamic nature of the democratic voting process to better understand Black voters&rsquo; support for co-racial representatives. We then assess the model using two original dynamic experimental designs and observational data from the 2007-2024 Cooperative Congressional Election Study. Our results indicate that although Black Americans initially prefer co-racial representatives, they readily update their evaluations of representatives based on performance. This process, which we call heuristic co-racial voting with updating, suggests that identity-based political judgments are not fixed but are reasonable starting points for political decisions made under uncertainty.</p>
