@@ -88,7 +88,7 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">Framing Minority Political Empowerment <em>(Draft available upon request).</em></span>
+  <span class="pub-title">Framing Minority Political Empowerment: Threat, Coalition-Building, and Democratic Inclusion <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
