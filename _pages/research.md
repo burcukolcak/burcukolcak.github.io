@@ -74,7 +74,7 @@ author_profile: false
 <li markdown="0">
   <span class="pub-title">The Immigration Penalty in 20 Democracies.</span>
   <span class="pub-status">Under review.</span>
-  <span class="pub-authors">(with Nicholas Sambanis, Krzysztof Krakowski, and Eleni Kyrkopoulou).</span>
+  <span class="pub-authors">(with Nicholas Sambanis, Krzysztof Krakowski, and Eleni Kyrkopoulou) <em>(Draft available upon request).</em></span>
 </li>
 
 </ol>
@@ -84,26 +84,26 @@ author_profile: false
 <div class="pubs">
 
 <p>
-  <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion.</span>
+  <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
-  <span class="pub-title">Framing Minority Political Empowerment.</span>
+  <span class="pub-title">Framing Minority Political Empowerment <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
-  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment.</span>
+  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment <em>(Draft available upon request).</em></span>
   <span class="pub-authors">(with Ismail K. White).</span>
 </p>
 
 <p>
   <span class="pub-title">Symbolic Support without Material Sacrifice: Racial Liberalism and the Limits of Costly Political Engagement.</span>
-  <span class="pub-authors">(with LaFleur Stephens-Dougan).</span>
+  <span class="pub-authors">(with LaFleur Stephens-Dougan) <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
   <span class="pub-title">The Boundaries of Coalition Building: The Case of “People of Color” Identity.</span>
-  <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White).</span>
+  <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White) <em>(Draft available upon request).</em></span>
 </p>
 
 </div>
@@ -122,6 +122,10 @@ author_profile: false
 
 <p>
   <span class="pub-title">Race and Ethnicity in Democracy? Racial and Ethnic Incorporation and the Varieties of Democratic Rule.</span>
+</p>
+
+<p>
+  <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Opposition Enclaves.</span>
 </p>
 
 <p>
