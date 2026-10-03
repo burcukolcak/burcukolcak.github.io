@@ -697,3 +697,13 @@ body {
   color: #a3382b;
   border-bottom-color: #a3382b;
 }
+/* No numbering on the publication lists — and no list indent, so all four
+   sections line up on the same left edge. */
+.page__content ol.pubs {
+  list-style: none;
+  padding-left: 0;
+}
+
+.page__content ol.pubs > li {
+  padding-left: 0;
+}
