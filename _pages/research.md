@@ -67,7 +67,7 @@ author_profile: false
 
 <li markdown="0">
   <span class="pub-title">More Than Linked Fate: Toward a New Measure of Politicized Racial Identity.</span>
-  <span class="pub-status">Revise and resubmit.</span>
+  <span class="pub-status">Revise and resubmit </span> <em>(Draft available upon request).</em>
   <span class="pub-authors">(with LaFleur Stephens-Dougan, Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, and Ismail K. White).</span>
 </li>
 
