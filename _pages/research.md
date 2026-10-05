@@ -125,7 +125,12 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Opposition Enclaves.</span>
+  <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Democratic Enclaves.</span>
+</p>
+
+<p>
+  <span class="pub-title">Lost in Translation: Racial Identity and Perceptions of Democracy Abroad.</span>
+  <span class="pub-authors">(with Rikio Inouye and Gavin Medina).</span>
 </p>
 
 <p>
