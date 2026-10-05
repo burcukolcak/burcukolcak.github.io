@@ -707,3 +707,8 @@ body {
 .page__content ol.pubs > li {
   padding-left: 0;
 }
+
+/* Prose links: rest underline in the current red (#a3382b), not the old brick. */
+.page__content a {
+  border-bottom-color: rgba(163, 56, 43, 0.35);
+}
