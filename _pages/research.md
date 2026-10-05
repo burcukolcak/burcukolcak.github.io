@@ -133,9 +133,5 @@ author_profile: false
   <span class="pub-authors">(with Rikio Inouye and Gavin Medina).</span>
 </p>
 
-<p>
-  <span class="pub-title">Multiracial Democracy in America? Conceptions of Democracy and Support for Anti-Democratic Attitudes.</span>
-  <span class="pub-authors">(with LaFleur Stephens-Dougan and Ismail K. White).</span>
-</p>
 
 </div>
