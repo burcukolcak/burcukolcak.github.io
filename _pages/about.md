@@ -12,7 +12,7 @@ author_profile: false
 
 <div class="home-bio" markdown="1">
 
-I am a Postdoctoral Researcher at Princeton University's <a href="https://csdp.princeton.edu/" target="_blank" rel="noopener">Center for the Study of Democratic Politics</a>, affiliated with the <a href="https://polracelab.com/home" target="_blank" rel="noopener">Lab on Politics, Race &amp; Experimental Methods</a>. I am also a Postdoctoral Research Affiliate at the <a href="https://campuspress.yale.edu/yaleicl/" target="_blank" rel="noopener">Identity &amp; Conflict Lab</a> at Yale University. I received my Ph.D. in Political Science from Rutgers University in 2025.
+I am a Postdoctoral Researcher at Princeton University's <a href="https://csdp.princeton.edu/" target="_blank" rel="noopener">Center for the Study of Democratic Politics</a>, affiliated with the <a href="https://polracelab.com/home" target="_blank" rel="noopener">Lab on Politics, Race &amp; Experimental Methods</a>. I am also a Postdoctoral Fellow at the <a href="https://campuspress.yale.edu/yaleicl/" target="_blank" rel="noopener">Identity &amp; Conflict Lab</a> at Yale University. I received my Ph.D. in Political Science from Rutgers University in 2025.
 
 My research centers on democracy, race and ethnic politics, and immigration in racially and ethnically diverse societies, drawing on political behavior, political psychology, and behavioral economics.
 
