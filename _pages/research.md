@@ -84,15 +84,15 @@ author_profile: false
 <div class="pubs">
 
 <p>
-  <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion <em>(Draft available upon request).</em></span>
+  <span class="pub-title">Bounded Democracy: Ethnic Identity and Racialized Democratic Exclusion. <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
-  <span class="pub-title">Framing Minority Political Empowerment: Threat, Coalition-Building, and Democratic Inclusion <em>(Draft available upon request).</em></span>
+  <span class="pub-title">Framing Minority Political Empowerment: Threat, Coalition-Building, and Democratic Inclusion. <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
-  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment </span>
+  <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment. </span>
   <span class="pub-authors">(with Ismail K. White) <em>(Draft available upon request).</em></span>
 </p>
 
