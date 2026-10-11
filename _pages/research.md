@@ -97,8 +97,8 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">Symbolic Support without Material Sacrifice: Racial Liberalism and the Limits of Costly Political Engagement.</span>
-  <span class="pub-authors">(with LaFleur Stephens-Dougan) <em>(Draft available upon request).</em></span>
+  <span class="pub-title">The Boundaries of Coalition Building: The Case of &ldquo;People of Color&rdquo; Identity.</span>
+  <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White) <em>(Draft available upon request).</em></span>
 </p>
 
 </div>
@@ -118,6 +118,8 @@ author_profile: false
 <p>
   <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Democratic Enclaves.</span>
 </p>
+
+
 
 <p>
   <span class="pub-title">Lost in Translation: Racial Identity and Perceptions of Democracy Abroad.</span>
