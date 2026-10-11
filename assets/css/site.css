@@ -712,3 +712,19 @@ body {
 .page__content a {
   border-bottom-color: rgba(163, 56, 43, 0.35);
 }
+
+/* Bio links: brick red at rest, no underline - same treatment as the
+   article titles, rather than the dark-ink-plus-underline prose style. */
+.page__content .home-bio a {
+  color: #a3382b;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.page__content .home-bio a:hover,
+.page__content .home-bio a:focus-visible,
+.page__content .home-bio a:active {
+  color: #832b20;
+  border-bottom: none;
+  text-decoration: none;
+}
