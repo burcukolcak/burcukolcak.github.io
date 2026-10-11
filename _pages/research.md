@@ -116,10 +116,6 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">Race and Ethnicity in Democracy? Racial and Ethnic Incorporation and the Varieties of Democratic Rule.</span>
-</p>
-
-<p>
   <span class="pub-title">From Constraint to Capture: Authoritarian Escalation against Democratic Enclaves.</span>
 </p>
 
