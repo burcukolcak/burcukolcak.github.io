@@ -101,11 +101,6 @@ author_profile: false
   <span class="pub-authors">(with LaFleur Stephens-Dougan) <em>(Draft available upon request).</em></span>
 </p>
 
-<p>
-  <span class="pub-title">The Boundaries of Coalition Building: The Case of “People of Color” Identity.</span>
-  <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White) <em>(Draft available upon request).</em></span>
-</p>
-
 </div>
 
 ## Selected Work in Progress
@@ -132,6 +127,5 @@ author_profile: false
   <span class="pub-title">Lost in Translation: Racial Identity and Perceptions of Democracy Abroad.</span>
   <span class="pub-authors">(with Rikio Inouye and Gavin Medina).</span>
 </p>
-
 
 </div>
