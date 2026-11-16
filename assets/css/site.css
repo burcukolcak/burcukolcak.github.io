@@ -728,3 +728,241 @@ body {
   border-bottom: none;
   text-decoration: none;
 }
+
+/* Homepage intro: portrait to the left of the bio. The figure stays last in
+   the markup so the text comes first on phones; order:-1 moves it left on
+   wider screens, where its left edge lines up with the Cajal band above. */
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.6rem;
+}
+
+.home-intro .home-bio {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.home-portrait {
+  flex: 0 0 220px;
+  order: -1;
+  margin: 0.4rem 0 0 0;
+}
+
+.home-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 42em) {
+  .home-intro { display: block; }
+  .home-portrait {
+    flex: none;
+    max-width: 170px;
+    margin: 0 0 1.8rem 0;
+  }
+}
+
+/* Site name in the masthead: lighter and tracked out, so it reads as a
+   wordmark rather than a bold default. The wide letter-spacing echoes the
+   nav links beside it, at a larger size so the name still leads.
+   Both selectors are here because the theme nests .site-title inside
+   .greedy-nav, where the nav link rules would otherwise claim it. */
+.masthead .greedy-nav .site-title,
+.masthead .site-title {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 1.18em;
+  letter-spacing: 0.17em;
+  text-transform: none;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: none;
+}
+
+/* Home page links: set off from the bio by a hairline rule, and red at rest
+   like the bio links and article titles, so the row reads as a deliberate
+   "where to find me" block rather than three stray words. */
+.home-links {
+  border-top: 1px solid var(--rule);
+  padding-top: 1.5em;
+  margin-top: 3.2em;
+  gap: 0 2.6em;
+}
+
+.page__content .home-links a {
+  font-size: 0.95em;
+  color: #a3382b;
+  border-bottom: none;
+}
+
+.page__content .home-links a:hover,
+.page__content .home-links a:focus-visible,
+.page__content .home-links a:active {
+  color: #832b20;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+/* --------------------------------------------------------------------------
+   Phone corrections
+   -------------------------------------------------------------------------- */
+
+/* The tracked-out name is too wide at phone size: it wraps onto two lines,
+   and it crowds the nav links. Scale it back below 47em and keep it on one
+   line; the wide version only needs to work where there is room for it. */
+@media (max-width: 47em) {
+  .masthead .greedy-nav .site-title,
+  .masthead .site-title {
+    font-size: 1em;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+}
+
+/* Stacked layout: put the portrait above the bio rather than after it. Left
+   as-is it lands between the last paragraph and the links row, at the bottom
+   of a long scroll, where it reads as an afterthought. */
+@media (max-width: 42em) {
+  .home-intro {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .home-portrait {
+    order: -1;
+    flex: none;
+    max-width: 160px;
+    margin: 0 0 2rem 0;
+  }
+}
+
+/* Phones: keep the desktop arrangement rather than stacking. The portrait
+   floats left at a size that still leaves a readable line beside it, and the
+   text closes under it once the float ends. This supersedes the stacked
+   rules above; the figure now comes first in the markup, which is what lets
+   the float work. */
+@media (max-width: 42em) {
+  .home-intro {
+    display: block;
+  }
+  .home-portrait {
+    float: left;
+    order: 0;
+    flex: none;
+    width: 130px;
+    max-width: 130px;
+    margin: 0.35rem 1.1rem 0.7rem 0;
+  }
+  .home-links {
+    clear: both;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Site name in the masthead
+   academicpages ships a masthead with no site name at all — only the nav,
+   with "Home" bolded as its first item. The name is added in
+   _includes/masthead.html as a sibling of the nav rather than inside it: the
+   greedy-nav script measures its own box to decide which links to collapse
+   into the overflow menu, and it knows nothing about a title, so a title
+   placed inside it would not be counted and the links would run into it.
+   -------------------------------------------------------------------------- */
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+/* The theme's clearfix pseudo-elements would otherwise become flex items. */
+.masthead__inner-wrap::after,
+.masthead__inner-wrap:after {
+  display: none;
+}
+
+.masthead__menu {
+  flex: 0 1 auto;
+  min-width: 0;
+}
+
+.masthead .site-title {
+  flex: 0 0 auto;
+  font-family: inherit;
+  font-size: 1.18em;
+  font-weight: 400;
+  letter-spacing: 0.17em;
+  line-height: 1.2;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: none;
+  white-space: nowrap;
+}
+
+.masthead .site-title:hover,
+.masthead .site-title:focus-visible {
+  color: var(--link-hot);
+  border-bottom: none;
+}
+
+/* Phones: the name and three links do not fit on one line at any size worth
+   reading — 360px still overflows with the name shrunk to 0.85em — so stack
+   them rather than squeezing. Measured down to 320px with room to spare. */
+@media (max-width: 47em) {
+  .masthead__inner-wrap {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.7rem;
+  }
+  .masthead .site-title {
+    font-size: 1.05em;
+    letter-spacing: 0.12em;
+  }
+  .greedy-nav .visible-links li:first-child a {
+    margin-left: 0;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Full-bleed header
+   The band now runs to the edges of the window instead of stopping at the
+   text column. The figure itself is stretched (not the image via percentage
+   margins, which resolve against the column and broke on wide windows), and
+   max-width:none lets the file fill windows wider than its own 1600px.
+   The credit line sits outside the figure in the markup so it stays in the
+   text column and lines up with the portrait below it.
+   -------------------------------------------------------------------------- */
+body {
+  overflow-x: clip;
+}
+
+.home-figure {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.page__content .home-figure img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: auto;
+  /* Uncapped, the band grows with the window — 846px tall at 2200px — and
+     pushes the bio off the screen. Capped, it crops slightly top and bottom
+     on very wide windows instead. Delete these three lines to let it grow. */
+  max-height: 560px;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (max-width: 47em) {
+  .page__content .home-figure img {
+    max-height: none;
+    object-fit: fill;
+  }
+}
