@@ -924,45 +924,31 @@ body {
   }
 }
 
+
 /* --------------------------------------------------------------------------
-   Full-bleed header
-   The band now runs to the edges of the window instead of stopping at the
-   text column. The figure itself is stretched (not the image via percentage
-   margins, which resolve against the column and broke on wide windows), and
-   max-width:none lets the file fill windows wider than its own 1600px.
-   The credit line sits outside the figure in the markup so it stays in the
-   text column and lines up with the portrait below it.
+   Masthead corrections
+   The nav is laid out by the theme's greedy-nav script, which decides how
+   many links fit by measuring its own box. Flexing the menu down to its
+   content left that box at the theme's `.greedy-nav { min-width: 250px }`,
+   so the script concluded only two links fit and folded Contact away behind
+   the overflow button. Letting the menu take the remaining width gives the
+   script the real space; the links are pushed right with an auto margin
+   instead of by shrinking their container.
    -------------------------------------------------------------------------- */
-body {
-  overflow-x: clip;
+.masthead__menu {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
-.home-figure {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  width: 100vw;
-  max-width: 100vw;
-  margin-left: -50vw;
-  margin-right: -50vw;
+.greedy-nav .visible-links {
+  margin-left: auto;
+  margin-right: 0;
 }
 
-.page__content .home-figure img {
-  display: block;
-  width: 100%;
-  max-width: none;
-  height: auto;
-  /* Uncapped, the band grows with the window — 846px tall at 2200px — and
-     pushes the bio off the screen. Capped, it crops slightly top and bottom
-     on very wide windows instead. Delete these three lines to let it grow. */
-  max-height: 560px;
-  object-fit: cover;
-  object-position: center;
-}
-
+/* Stacked masthead: the links sit under the name, so they align left with
+   it rather than being pushed to the right edge. */
 @media (max-width: 47em) {
-  .page__content .home-figure img {
-    max-height: none;
-    object-fit: fill;
+  .greedy-nav .visible-links {
+    margin-left: 0;
   }
 }
