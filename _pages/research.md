@@ -11,7 +11,7 @@ author_profile: false
 
 <li markdown="0">
   <span class="pub-title">Identity Politics? Black Voters and the Logic of Co-Racial Voting in American Elections.</span>
-  <span class="pub-status">Conditionally accepted,</span> <span class="pub-venue">American Political Science Review</span>.
+  <span class="pub-status">Forthcoming,</span> <span class="pub-venue">American Political Science Review</span>.
   <span class="pub-authors">(with Tina LaChapelle, Corrine McConnaughy, Melanye Price, and Ismail K. White) <em>(Draft available upon request)</em>.</span> 
   <details>
     <summary>Abstract</summary>
