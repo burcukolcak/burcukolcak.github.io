@@ -11,8 +11,8 @@ author_profile: false
 
 <li markdown="0">
   <span class="pub-title">Identity Politics? Black Voters and the Logic of Co-Racial Voting in American Elections.</span>
-  <span class="pub-status">Forthcoming,</span> <span class="pub-venue">American Political Science Review</span>.
-  <span class="pub-authors">(with Tina LaChapelle, Corrine McConnaughy, Melanye Price, and Ismail K. White) <em>(Draft available upon request)</em>.</span> 
+  <span class="pub-status">Forthcoming,</span> <span class="pub-venue">American Political Science Review.</span>
+  <span class="pub-authors">(with Tina LaChapelle, Corrine McConnaughy, Melanye Price, and Ismail K. White). <em>(Draft available upon request)</em>.</span> 
   <details>
     <summary>Abstract</summary>
     <p>For decades, scholars and commentators have debated whether political decisions rooted in shared identity undermine democratic accountability. This paper engages with this question by explaining the logic of co-racial voting in American elections and arguing that it can be a reasonable and appropriate use of identity in politics. We begin by developing a conceptual model that leverages the dynamic nature of the democratic voting process to better understand Black voters&rsquo; support for co-racial representatives. We then assess the model using two original dynamic experimental designs and observational data from the 2007-2024 Cooperative Congressional Election Study. Our results indicate that although Black Americans initially prefer co-racial representatives, they readily update their evaluations of representatives based on performance. This process, which we call heuristic co-racial voting with updating, suggests that identity-based political judgments are not fixed but are reasonable starting points for political decisions made under uncertainty.</p>
@@ -21,7 +21,7 @@ author_profile: false
 
 <li markdown="0">
   <a class="pub-title" href="https://doi.org/10.1017/S1537592724000604" target="_blank" rel="noopener">Federalism and Democratic Backsliding in Comparative Perspective.</a>
-  2025. <span class="pub-venue">Perspectives on Politics</span> 23(1): 15–34.
+  2025. <span class="pub-venue">Perspectives on Politics</span>.
   <span class="pub-authors">(with Robert R. Kaufman and R. Daniel Kelemen).</span>
   <details>
     <summary>Abstract</summary>
@@ -31,7 +31,7 @@ author_profile: false
 
 <li markdown="0">
   <a class="pub-title" href="https://doi.org/10.1177/00220027251365535" target="_blank" rel="noopener">Military Experience and Casualty Sensitivity in Elite Discourse.</a>
-  2025. <span class="pub-venue">Journal of Conflict Resolution</span>.
+  2025. <span class="pub-venue">Journal of Conflict Resolution.</span>
   <span class="pub-authors">(with Michael Kenwick and Sumin Lee).</span>
   <details>
     <summary>Abstract</summary>
@@ -41,7 +41,7 @@ author_profile: false
 
 <li markdown="0">
   <a class="pub-title" href="https://doi.org/10.1093/publius/pjac009" target="_blank" rel="noopener">Public Opinion, Federalism, and Level of Governmental Intervention: Perceptions of Law Enforcement Response to the 2020 George Floyd Protests.</a>
-  2022. <span class="pub-venue">Publius: The Journal of Federalism</span> 52(4): 632–654.
+  2022. <span class="pub-venue">Publius: The Journal of Federalism.</span>
   <span class="pub-authors">(with Katherine T. McCabe).</span>
   <details>
     <summary>Abstract</summary>
@@ -51,7 +51,7 @@ author_profile: false
 
 <li markdown="0">
   <a class="pub-title" href="https://doi.org/10.1080/17457289.2021.1924741" target="_blank" rel="noopener">Federalism at a Partisan's Convenience: Public Opinion on Federal Intervention in 2020 Election Policy.</a>
-  2021. <span class="pub-venue">Journal of Elections, Public Opinion and Parties</span> 31(S1): 167–179.
+  2021. <span class="pub-venue">Journal of Elections, Public Opinion and Parties.</span>
   <span class="pub-authors">(with Katherine T. McCabe).</span>
   <details>
     <summary>Abstract</summary>
@@ -68,13 +68,13 @@ author_profile: false
 <li markdown="0">
   <span class="pub-title">More Than Linked Fate: Toward a New Measure of Politicized Racial Identity.</span>
   <span class="pub-status">Revise and resubmit. </span> 
-  <span class="pub-authors">(with LaFleur Stephens-Dougan, Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, and Ismail K. White) <em>(Draft available upon request).</em></span>
+  <span class="pub-authors">(with LaFleur Stephens-Dougan, Kaiyla Banks, Jeron Fenton, Jasante' Howard, Isaiah Johnson, and Ismail K. White). <em>(Draft available upon request).</em></span>
 </li>
 
 <li markdown="0">
   <span class="pub-title">The Immigration Penalty in 20 Democracies.</span>
   <span class="pub-status">Under review.</span>
-  <span class="pub-authors">(with Nicholas Sambanis, Krzysztof Krakowski, and Eleni Kyrkopoulou) <em>(Draft available upon request).</em></span>
+  <span class="pub-authors">(with Nicholas Sambanis, Krzysztof Krakowski, and Eleni Kyrkopoulou). <em>(Draft available upon request).</em></span>
 </li>
 
 </ol>
@@ -93,12 +93,12 @@ author_profile: false
 
 <p>
   <span class="pub-title">An Iterative Conjoint Framework for Studying Political Judgment. </span>
-  <span class="pub-authors">(with Ismail K. White) <em>(Draft available upon request).</em></span>
+  <span class="pub-authors">(with Ismail K. White). <em>(Draft available upon request).</em></span>
 </p>
 
 <p>
   <span class="pub-title">The Boundaries of Coalition Building: The Case of &ldquo;People of Color&rdquo; Identity.</span>
-  <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White) <em>(Draft available upon request).</em></span>
+  <span class="pub-authors">(with Arvind Krishnamurthy, Leann McLaren, Nura A. Sediqe, Jasmine Carrera Smith, and Ismail K. White). <em>(Draft available upon request).</em></span>
 </p>
 
 </div>
@@ -112,7 +112,7 @@ author_profile: false
 </p>
 
 <p>
-  <span class="pub-title">The Dynamics of Democratic Judgment: Ethnic Identity, Information, and the Boundaries of Democracy.</span>
+  <span class="pub-title">The Dynamics of Democratic Judgment: Identity, Information, and the Boundaries of Democracy.</span>
 </p>
 
 <p>
