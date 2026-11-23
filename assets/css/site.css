@@ -952,3 +952,171 @@ body {
     margin-left: 0;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Home page: the Cajal plate beside the text
+   The plate is portrait-shaped, so it sits next to the type rather than above
+   it. One object, one column of text, nothing else — which is the whole
+   reason the arrangement works, and why the headshot moved to /about.
+   -------------------------------------------------------------------------- */
+.plate-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 4rem;
+}
+
+.plate {
+  flex: 0 0 400px;
+  margin: 0;
+}
+
+.plate img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: none;
+}
+
+.lede {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 34rem;
+}
+
+.page__content .lede p {
+  font-size: 1.05em;
+  line-height: 1.78;
+  color: var(--ink-soft);
+  max-width: none;
+  margin: 0 0 1.3em;
+}
+
+.page__content .lede a {
+  color: #a3382b;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.page__content .lede a:hover,
+.page__content .lede a:focus-visible,
+.page__content .lede a:active {
+  color: #832b20;
+  border-bottom: none;
+}
+
+.page__content a.more {
+  display: inline-block;
+  margin-top: 0.4em;
+  font-size: 0.86em;
+  letter-spacing: 0.05em;
+}
+
+/* The plate's file is 680px wide, so it stays sharp at 400 and below. Rather
+   than let it dominate a phone, it stacks above the text at a size that still
+   leaves the page feeling composed. */
+@media (max-width: 47em) {
+  .plate-row {
+    display: block;
+  }
+  .plate {
+    width: 62%;
+    max-width: 260px;
+    margin: 0 0 2.2rem 0;
+  }
+  .lede {
+    max-width: none;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Home page: the neuron field
+   The canvas is drawn by assets/js/neuron.js. It fills a band across the top
+   of the home page, edge to edge, with the masthead floating over it.
+   -------------------------------------------------------------------------- */
+body {
+  overflow-x: clip;            /* the hero is 100vw; this stops a sideways scrollbar */
+}
+
+/* Only on the page that has the hero: the masthead sits over the field rather
+   than above it. Research, Teaching and Contact keep the normal masthead. */
+body:has(.home-hero) .masthead {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  background: transparent;
+  border-bottom: none;
+}
+
+body:has(.home-hero) #main {
+  margin-top: 0;
+}
+
+.home-hero {
+  position: relative;
+  left: 50%;
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: -50vw;
+  margin-bottom: 3.4rem;
+  height: 73svh;
+  min-height: 420px;
+  max-height: 800px;
+  background: #faf7f1;
+  overflow: hidden;
+  touch-action: pan-y;
+}
+
+.home-hero canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* A hairline rather than the word "scroll", drifting down on a slow loop. */
+.home-scroll {
+  position: absolute;
+  bottom: 2.4rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  width: 1px;
+  height: 42px;
+  overflow: hidden;
+  text-indent: -9999px;
+  border-bottom: none;
+}
+
+.home-scroll span {
+  display: block;
+  width: 1px;
+  height: 42px;
+  background: linear-gradient(rgba(19, 19, 19, 0), rgba(19, 19, 19, 0.32));
+  animation: home-drift 2.8s ease-in-out infinite;
+}
+
+@keyframes home-drift {
+  0%        { transform: translateY(-100%); }
+  60%, 100% { transform: translateY(100%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-scroll span { animation: none; }
+}
+
+/* Nav: larger and darker than it was, so it holds its own over the field. */
+.greedy-nav a {
+  font-size: 0.96em;
+  color: #2f2f2f;
+}
+
+@media (max-width: 47em) {
+  .home-hero {
+    height: 62svh;
+    min-height: 340px;
+    margin-bottom: 2.4rem;
+  }
+}

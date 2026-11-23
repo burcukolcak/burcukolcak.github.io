@@ -5,15 +5,12 @@ excerpt: "About me"
 author_profile: false
 ---
 
-<figure class="home-figure">
-  <img src="/cajal-band.jpg" alt="Detail from an ink drawing by Santiago Ram&oacute;n y Cajal: pyramidal neurons of the cerebral cortex, their cell bodies and branching dendrites.">
-</figure>
+<div class="home-hero" markdown="0">
+  <canvas id="web" aria-hidden="true"></canvas>
+  <a class="home-scroll" href="#about" aria-label="Skip to the text below"><span></span></a>
+</div>
 
-<div class="home-intro" markdown="1">
-
-<figure class="home-portrait" markdown="0">
-  <img src="/portrait.jpg" alt="Burcu Kolcak">
-</figure>
+<div id="about"></div>
 
 <div class="home-bio" markdown="1">
 
@@ -25,10 +22,10 @@ Prior to my Ph.D., I completed master's degrees in Political Theory at the Londo
 
 </div>
 
-</div>
-
 <ul class="home-links">
   <li><a href="/research/">Research</a></li>
   <li><a href="https://scholar.google.com/citations?user=qpeYXQ4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
   <li><a href="mailto:bkolcak@princeton.edu">bkolcak@princeton.edu</a></li>
 </ul>
+
+<script src="{{ base_path }}/assets/js/neuron.js"></script>
