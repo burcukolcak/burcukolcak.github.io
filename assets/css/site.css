@@ -1120,3 +1120,20 @@ body:has(.home-hero) #main {
     margin-bottom: 2.4rem;
   }
 }
+
+/* On the home page the field runs edge to edge, so the masthead should too —
+   otherwise the name floats in the middle of a wide screen while the drawing
+   behind it reaches the corners. Inner pages keep the centred wrapper, which
+   is what aligns their nav with the body text. */
+body:has(.home-hero) .masthead__inner-wrap {
+  max-width: none;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (max-width: 47em) {
+  body:has(.home-hero) .masthead__inner-wrap {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+}
