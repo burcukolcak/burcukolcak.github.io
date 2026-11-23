@@ -1137,3 +1137,21 @@ body:has(.home-hero) .masthead__inner-wrap {
     padding-right: 1.2rem;
   }
 }
+
+/* Phones: the stacked masthead is a column flex container, so its children
+   shrink to their content — which left the nav box at the theme's
+   `.greedy-nav { min-width: 250px }`. The theme's script sizes the menu by
+   measuring that box, decided only two links fitted, and pushed Contact into
+   the overflow button. Give the nav the full width and all three fit. */
+@media (max-width: 47em) {
+  .masthead__inner-wrap {
+    align-items: stretch;
+  }
+  .masthead__menu {
+    width: 100%;
+  }
+  .greedy-nav {
+    width: 100%;
+    min-width: 0;
+  }
+}
